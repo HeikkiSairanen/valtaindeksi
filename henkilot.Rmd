@@ -8,35 +8,32 @@ output:
 ```{r}
 source("henkilot.r")
 
+library(tidyverse)
+library(lubridate)
+library(scales)  # Muista lisätä scales-paketti
+
+
 target_holder <- "Urho Kekkonen"
 monthly_power_individual_avg %>%
   filter(Holder == target_holder) %>%
   ggplot(aes(x = month, y = avg_power_last_5_years)) +
   geom_line() +
-  labs(title = paste("Average Power Over the Last 5 Years for", target_holder),
-       x = "Month",
-       y = "Average Power") +
+  labs(title = paste("Paavo Väyrysen vallan keskivuoro kuluneen 5 vuoden aikana"),
+       x = "Vuosi",
+       y = "Keskimääräinen valta (%)") +
+  scale_y_continuous(labels = percent_format(scale = 100)) +
   theme_minimal()
-
-
-
-
-
 
 target_holder <- "Tarja Halonen"
 monthly_power_individual_avg %>%
   filter(Holder == target_holder) %>%
   ggplot(aes(x = month, y = avg_power_last_5_years)) +
   geom_line() +
-  labs(title = paste("Average Power Over the Last 5 Years for", target_holder),
-       x = "Month",
-       y = "Average Power") +
+  labs(title = paste("Paavo Väyrysen vallan keskivuoro kuluneen 5 vuoden aikana"),
+       x = "Vuosi",
+       y = "Keskimääräinen valta (%)") +
+  scale_y_continuous(labels = percent_format(scale = 100)) +
   theme_minimal()
-
-
-library(tidyverse)
-library(lubridate)
-library(scales)  # Muista lisätä scales-paketti
 
 target_holder <- "Paavo Väyrynen"
 monthly_power_individual_avg %>%
@@ -44,7 +41,7 @@ monthly_power_individual_avg %>%
   ggplot(aes(x = month, y = avg_power_last_5_years)) +
   geom_line() +
   labs(title = paste("Paavo Väyrysen vallan keskivuoro kuluneen 5 vuoden aikana"),
-       x = "Kuukausi",
+       x = "Vuosi",
        y = "Keskimääräinen valta (%)") +
   scale_y_continuous(labels = percent_format(scale = 100)) +
   theme_minimal()
