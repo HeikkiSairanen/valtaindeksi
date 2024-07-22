@@ -18,7 +18,7 @@ monthly_power_individual_avg %>%
   filter(Holder == target_holder) %>%
   ggplot(aes(x = month, y = avg_power_last_5_years)) +
   geom_line() +
-  labs(title = paste("Paavo Väyrysen vallan keskivuoro kuluneen 5 vuoden aikana"),
+  labs(title = paste("Paavo Väyrysen vallan keskiarvo kuluneen 5 vuoden aikana"),
        x = "Vuosi",
        y = "Keskimääräinen valta (%)") +
   scale_y_continuous(labels = percent_format(scale = 100)) +
