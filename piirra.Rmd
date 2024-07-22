@@ -1,0 +1,460 @@
+---
+title: "Dataa"
+output: html_document
+date: "2024-06-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Kaavioita
+
+
+```{r puolueet}
+source("draw_stack.r")
+
+```
+
+# Poliittinen valta nyt
+
+```{r}
+
+monthly_power |> 
+    filter(month == "2024-06-01" & percentage_power > 0) |> 
+    ggplot(aes(x = reorder(Party, percentage_power), y = percentage_power)) + 
+    geom_bar(stat = "identity") + 
+    coord_flip() + 
+    labs(x = "Puolue", y = "Osuus vallasta",title="Puolueiden valta Suomessa kesäkuussa 2024", caption="Tekijä: Heikki Sairanen, datalähde: Wikipedia") + 
+    scale_y_continuous(labels = percent_format())+theme_minimal()
+
+
+```
+
+monthly_power |> 
+    filter(month %in% c("2021-06-01","2022-06-01","2023-06-01","2024-06-01") & percentage_power > 0) |> group_by(month) |>
+    ggplot(aes(x = reorder(Party, percentage_power,fill=month), y = percentage_power)) + 
+    geom_bar(stat = "") + 
+    coord_flip() + 
+    labs(x = "Puolue", y = "Osuus vallasta",title="Puolueiden valta Suomessa kesäkuissa 2021-2024", caption="Tekijä: Heikki Sairanen, datalähde: Wikipedia") + 
+    scale_y_continuous(labels = percent_format())+theme_minimal()
+
+
+# lähivuodet
+
+```{r}
+
+library(dplyr)
+library(ggplot2)
+library(scales)
+
+# Define a custom color palette
+custom_palette <- c("#d0e1f9", "#a6c8e7", "#6497b1", "#005b96")
+
+monthly_power |> 
+    filter(month %in% c("2021-06-01", "2022-06-01", "2023-06-01", "2024-06-01") & percentage_power > 0) |> 
+    ggplot(aes(x = reorder(Party, percentage_power), y = percentage_power, fill = factor(month))) + 
+    geom_bar(stat = "identity", position = "dodge") + 
+    coord_flip() + 
+    labs(x = "Puolue", y = "Osuus vallasta", 
+         title = "Puolueiden valta Suomessa kesäkuissa 2021-2024", 
+         caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",
+         fill = "Kuukausi") + 
+    scale_y_continuous(labels = percent_format()) + 
+    scale_fill_manual(values = custom_palette, labels = c("Kesäkuu 2021", "Kesäkuu 2022", "Kesäkuu 2023", "Kesäkuu 2024")) + 
+    theme_minimal() +
+    theme(legend.title = element_text(size = 12), legend.text = element_text(size = 10))
+
+
+
+
+```
+
+# lähivuodet
+```{r}
+
+monthly_power |> filter(Party %in% c("SDP","KOK","KESK","PS","VIHR","VAS","RKP")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+    geom_area() +
+    scale_y_continuous(labels = scales::percent) +
+    scale_fill_manual(values = all_colors) +
+    labs(title = "Puolueiden valta Suomessa 1990-2024", 
+         caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",
+         x = "Vuosi",
+         y = "Osuus vallasta kuukausittain") +
+    theme_minimal()+xlim(as.Date(c("1990-01-01","2024-01-01")))
+
+
+
+monthly_power |> filter(Party %in% c("SDP","KOK","KESK","PS","VIHR","VAS","RKP","LKP","VL")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+    geom_area() +
+    scale_y_continuous(labels = scales::percent) +
+    scale_fill_manual(values = all_colors) +
+    labs(title = "Puolueiden valta Suomessa 1945-2024", 
+         caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",
+         x = "Vuosi",
+         y = "Osuus vallasta kuukausittain") +
+    theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))
+
+
+monthly_power |> filter(Party %in%
+c("SDP","KOK","KESK","PS","VIHR","VAS","RKP","LKP","VL")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+    geom_area() +
+    scale_y_continuous(labels = scales::percent) +
+    scale_fill_manual(values = all_colors) +
+    labs(title = "Puolueiden valta Suomessa 1917-2024", 
+         caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",
+         x = "Vuosi",
+         y = "Osuus vallasta kuukausittain") +
+    theme_minimal()+xlim(as.Date(c("1917-01-01","2024-01-01")))
+
+```
+
+#ennen sodan loppua
+```{r}
+ennen_sodan_loppua <- d_title |> dplyr::filter(end_date < as.Date("1945-01-01")) |> select(Party)
+
+ennen_sodan_loppua <- unique(ennen_sodan_loppua$Party)
+
+monthly_power |> dplyr::filter(Party %in% ennen_sodan_loppua) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+    geom_area() +
+    scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+    labs(title = "Puolueiden valta Suomessa 1917-1944", 
+         caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",
+         x = "Vuosi",
+         y = "Osuus vallasta kuukausittain") +
+    theme_minimal()+xlim(as.Date(c("1917-01-01","1945-01-01"))) 
+
+```
+
+
+# muita
+
+```{r}
+monthly_power |> filter(Party %in% c("SDP","KOK","KESK")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Prosenttia vallasta kuukausittain",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain") +
+  theme_minimal()
+
+
+monthly_power |> filter(Party %in% c("SDP","KOK","KESK","PS","VIHR","VAS","RKP")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Prosenttia vallasta kuukausittain",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain") +
+  theme_minimal()
+
+
+
+monthly_power |> filter(Party %in% c("SDP","KOK","KESK","PS","VIHR","VAS","RKP")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Prosenttia vallasta kuukausittain",
+  x = "",
+  y = "Osuus vallasta kuukausittain") +
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ labs(x = "Puolue", y = "Osuus vallasta", 
+         title = "Puolueiden valta Suomessa kesäkuissa 1990-2024", 
+         caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",
+         fill = "Kuukausi")
+
+
+monthly_power |> filter(Party %in% c("KOK")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Prosenttia vallasta kuukausittain",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain") +
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ylim(c(0,1))
+
+
+monthly_power |> filter(Party %in% c("SDP")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Prosenttia vallasta kuukausittain",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain") +
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ylim(c(0,1))
+
+
+```
+
+# blogiin menevät yksittäisten puolueiden
+```{r}
+monthly_power |> filter(Party %in% c("KESK")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Keskustan poliittinen valta Suomessa ",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain", caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",fill="Puolue")+
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ylim(c(0,1))+ 
+    scale_y_continuous(labels = percent_format(),limits=c(0,0.8))
+
+
+monthly_power |> filter(Party %in% c("SDP")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "SDP:n poliittinen valta Suomessa ",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain", caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",fill="Puolue")+
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ 
+    scale_y_continuous(labels = percent_format(),limits=c(0,0.8))
+
+monthly_power |> filter(Party %in% c("KOK")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Kokoomuksen poliittinen valta Suomessa ",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain", caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",fill="Puolue")+
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ 
+    scale_y_continuous(labels = percent_format(),limits=c(0,0.8))
+
+
+monthly_power |> filter(Party %in% c("VAS")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Vasemmistoliiton (ja edeltäjien) poliittinen valta Suomessa ",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain", caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",fill="Puolue")+
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ 
+    scale_y_continuous(labels = percent_format(),limits=c(0,0.8))
+
+monthly_power |> filter(Party %in% c("VIHR")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Vihreiden poliittinen valta Suomessa ",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain", caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",fill="Puolue")+
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ 
+    scale_y_continuous(labels = percent_format(),limits=c(0,0.8))
+
+monthly_power |> filter(Party %in% c("PS")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Perussuomalaisten (ja SMP:n) poliittinen valta Suomessa ",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain", caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia",fill="Puolue")+
+  theme_minimal()+xlim(as.Date(c("1945-01-01","2024-01-01")))+ 
+    scale_y_continuous(labels = percent_format(),limits=c(0,0.8))
+```
+
+```{r koordinaatistot}
+
+reshaped_data <- monthly_power %>%
+  select(month, Party, percentage_power) %>%
+  pivot_wider(names_from = Party, values_from = percentage_power)
+ggplot(reshaped_data, aes(x = KESK, y = SDP)) +
+    geom_point() +
+    geom_path(aes(group = 1)) +
+    labs(title = "KESK vs SDP Percentage Power Over Time",
+         x = "KESK Percentage Power",
+         y = "SDP Percentage Power") +
+    theme_minimal()
+
+source("kedit.r")
+
+puolue_kedit_valta |> ggplot(aes(x=count,y=percentage_power))+geom_point(alpha=0.1)+geom_smooth(method="lm")+labs(x="kansanedustajien määrä",y="osuus vallasta",title="Vihreiden valta suhteessa kansanedustajiin")+theme_minimal()+scale_y_continuous(labels = percent_format())+xlim(c(0,150))+ylim(c(0,0.7))
+```
+
+
+```{r kokoomus}
+monthly_power |> filter(Party %in% c("KOK")) |> ggplot(aes(x = month, y = percentage_power, fill = Party)) +
+  geom_area() +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = all_colors) +
+  labs(title = "Prosenttia vallasta kuukausittain",
+  x = "Vuosi",
+  y = "Osuus vallasta kuukausittain") +
+  theme_minimal()+xlim(as.Date(c("1980-01-01","2024-01-01")))+ylim(c(0,0.6))+ scale_y_continuous(labels = scales::percent)
+
+
+library(tidyverse)
+
+# Data for party leaders
+puolueen_puheenjohtajat <- tibble::tribble(
+  ~Name,               ~Start, ~End,
+  "Hugo Suolahti",     1918,   1920,
+  "E. N. Setälä",      1920,   1921,
+  "Antti Tulenheimo",  1921,   1925,
+  "Hugo Suolahti",     1925,   1926,
+  "Kyösti Haataja",    1926,   1932,
+  "Paavo Virkkunen",   1932,   1934,
+  "J. K. Paasikivi",   1934,   1936,
+  "Pekka Pennanen",    1936,   1943,
+  "Edvin Linkomies",   1943,   1945,
+  "K. F. Lehtonen",    1945,   1946,
+  "Arvo Salminen",     1946,   1955,
+  "Jussi Saukkonen",   1955,   1965,
+  "Juha Rihtniemi",    1965,   1971,
+  "Harri Holkeri",     1971,   1979,
+  "Ilkka Suominen",    1979,   1991,
+  "Pertti Salolainen", 1991,   1994,
+  "Sauli Niinistö",    1994,   2001,
+  "Ville Itälä",       2001,   2004,
+  "Jyrki Katainen",    2004,   2014,
+  "Alexander Stubb",   2014,   2016,
+  "Petteri Orpo",      2016,   NA
+)
+
+# Calculate midpoints for leader terms
+puolueen_puheenjohtajat <- puolueen_puheenjohtajat |> 
+  mutate(
+    Start = as.Date(paste0(Start, "-01-01")),
+    End = case_when(
+      is.na(End) ~ as.Date("2024-01-01"),
+      TRUE ~ as.Date(paste0(End, "-01-01"))
+    ),
+    Mid = Start + (End - Start) / 2
+  )
+
+# Assuming monthly_power is a tibble or data frame already defined
+# monthly_power <- ...
+
+# Filter data for the specific party
+kok_data <- monthly_power |> filter(Party == "KOK")
+
+# Plot the data
+ggplot(kok_data, aes(x = month, y = percentage_power)) +
+  geom_area(fill = "lightblue") + # Fill with a single color to avoid the Party variable issue
+  scale_y_continuous(labels = scales::percent) +
+  labs(
+    title = "Kokoomuksen valta puheenjohtajien kausien mukaan",
+    x = "Vuosi",
+    y = "Osuus vallasta kuukausittain",
+    caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia"
+  ) +
+  theme_minimal() +
+  xlim(as.Date(c("1979-01-01", "2024-01-01"))) +
+  ylim(c(0, 0.6)) +
+  geom_vline(data = puolueen_puheenjohtajat, aes(xintercept = Start), linetype = "dashed") +
+  geom_text(size=6, data = puolueen_puheenjohtajat, aes(x = Mid, y = 0.4, label = Name), angle = 90, vjust = 0.1, hjust = 1)+scale_y_continuous(labels = percent_format())
+
+
+#------- RKP
+
+library(tidyverse)
+
+# Data for RKP party leaders
+RKP_puheenjohtajat <- tibble::tribble(
+  ~Name,                   ~Start, ~End,
+  "Axel Lille",            1906,   1917,
+  "Eric von Rettig",       1917,   1934,
+  "Ernst von Born",        1934,   1945,
+  "Ralf Törngren",         1945,   1955,
+  "Ernst von Born",        1955,   1956,
+  "Lars Erik Taxell",      1956,   1966,
+  "Jan-Magnus Jansson",    1966,   1973,
+  "Kristian Gestrin",      1973,   1974,
+  "Carl Olof Tallgren",    1974,   1977,
+  "Pär Stenbäck",          1977,   1985,
+  "Christoffer Taxell",    1985,   1990,
+  "Ole Norrback",          1990,   1998,
+  "Jan-Erik Enestam",      1998,   2006,
+  "Stefan Wallin",         2006,   2012,
+  "Carl Haglund",          2012,   2016,
+  "Anna-Maja Henriksson",  2016,   NA
+)
+
+# Calculate midpoints for leader terms
+RKP_puheenjohtajat <- RKP_puheenjohtajat |> 
+  mutate(
+    Start = as.Date(paste0(Start, "-01-01")),
+    End = case_when(
+      is.na(End) ~ as.Date("2024-01-01"),
+      TRUE ~ as.Date(paste0(End, "-01-01"))
+    ),
+    Mid = Start + (End - Start) / 2
+  )
+
+# Assuming monthly_power is a tibble or data frame already defined
+# monthly_power <- ...
+
+# Filter data for the specific party
+rkp_data <- monthly_power |> filter(Party == "RKP")
+
+# Plot the data
+ggplot(rkp_data, aes(x = month, y = percentage_power)) +
+  geom_area(fill = "lightblue") +
+  labs(
+    title = "RKP:n valta puheenjohtajien kausien mukaan",
+    x = "Vuosi",
+    y = "Osuus vallasta kuukausittain",
+    caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia"
+  ) +
+  theme_minimal() +
+  xlim(as.Date(c("1945-01-01", "2024-01-01"))) +
+  ylim(c(0, 0.2)) +
+  geom_vline(data = RKP_puheenjohtajat, aes(xintercept = Start), linetype = "dashed") +
+  geom_text(size = 4, data = RKP_puheenjohtajat, aes(x = Mid, y = 0.2, label = Name), angle = 90, vjust = 0.5, hjust = 1, color = "black", fontface = "bold")+scale_y_continuous(labels = scales::percent)
+
+#--- KESKUSTA
+
+
+# Data for Keskusta party leaders
+Keskusta_puheenjohtajat <- tibble::tribble(
+    ~Name,                   ~Start, ~End,
+    "Otto Karhi",            1906,   1909,
+    "Kyösti Kallio",         1909,   1917,
+    "Filip Saalasti",        1917,   1918,
+    "Santeri Alkio",         1918,   1919,
+    "P. V. Heikkinen",       1919,   1940,
+    "Viljami Kalliokoski",   1940,   1945,
+    "V. J. Sukselainen",     1945,   1964,
+    "Johannes Virolainen",   1964,   1980,
+    "Paavo Väyrynen",        1980,   1990,
+    "Esko Aho",              1990,   2002,
+    "Anneli Jäätteenmäki",   2002,   2003,
+    "Matti Vanhanen",        2003,   2010,
+    "Mari Kiviniemi",        2010,   2012,
+    "Juha Sipilä",           2012,   2019,
+    "Katri Kulmuni",         2019,   2020,
+    "Annika Saarikko",       2020,   NA
+)
+
+# Calculate midpoints for leader terms
+Keskusta_puheenjohtajat <- Keskusta_puheenjohtajat |> 
+    mutate(
+        Start = as.Date(paste0(Start, "-01-01")),
+        End = case_when(
+            is.na(End) ~ as.Date("2024-01-01"),
+            TRUE ~ as.Date(paste0(End, "-01-01"))
+        ),
+        Mid = Start + (End - Start) / 2
+    )
+
+# Assuming monthly_power is a tibble or data frame already defined
+# monthly_power <- ...
+
+# Filter data for the specific party
+keskusta_data <- monthly_power |> filter(Party == "KESK")
+
+# Plot the data
+ggplot(keskusta_data, aes(x = month, y = percentage_power)) +
+    geom_area(fill = "lightgreen") + # Fill with a color representative of Keskusta
+    labs(
+        title = "Keskustan valta puheenjohtajien kausien mukaan",
+        x = "Vuosi",
+        y = "Osuus vallasta kuukausittain",
+        caption = "Tekijä: Heikki Sairanen, datalähde: Wikipedia"
+    ) +
+    theme_minimal() +
+    xlim(as.Date(c("1945-01-01", "2024-01-01"))) +
+    ylim(c(0, 0.6)) +
+    geom_vline(data = Keskusta_puheenjohtajat, aes(xintercept = Start), linetype = "dashed") +
+    geom_text(size = 4, data = Keskusta_puheenjohtajat, aes(x = Mid, y = 0.4, label = Name), angle = 90, vjust = 0.5, hjust = 1, color = "black", fontface = "bold")+scale_y_continuous(labels = scales::percent) 
+
+```

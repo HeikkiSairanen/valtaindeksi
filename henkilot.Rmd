@@ -1,0 +1,222 @@
+---
+title: "Henkilöiden valta"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r}
+source("henkilot.r")
+
+target_holder <- "Urho Kekkonen"
+monthly_power_individual_avg %>%
+  filter(Holder == target_holder) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years)) +
+  geom_line() +
+  labs(title = paste("Average Power Over the Last 5 Years for", target_holder),
+       x = "Month",
+       y = "Average Power") +
+  theme_minimal()
+
+
+
+
+
+
+target_holder <- "Tarja Halonen"
+monthly_power_individual_avg %>%
+  filter(Holder == target_holder) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years)) +
+  geom_line() +
+  labs(title = paste("Average Power Over the Last 5 Years for", target_holder),
+       x = "Month",
+       y = "Average Power") +
+  theme_minimal()
+
+
+library(tidyverse)
+library(lubridate)
+library(scales)  # Muista lisätä scales-paketti
+
+target_holder <- "Paavo Väyrynen"
+monthly_power_individual_avg %>%
+  filter(Holder == target_holder) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years)) +
+  geom_line() +
+  labs(title = paste("Paavo Väyrysen vallan keskivuoro kuluneen 5 vuoden aikana"),
+       x = "Kuukausi",
+       y = "Keskimääräinen valta (%)") +
+  scale_y_continuous(labels = percent_format(scale = 100)) +
+  theme_minimal()
+
+```
+
+# Top listat
+```{r}
+
+source("top_henk.r")
+# Tulostetaan top 10 vallankäyttäjää
+top_power_holders <- average_power %>%
+  top_n(10, avg_percentage_power)
+
+print(top_power_holders)
+
+# Visualisoidaan top 10 vallankäyttäjää
+top_power_holders %>%
+  ggplot(aes(x = reorder(Holder, avg_percentage_power), y = avg_percentage_power)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Top 10 Power Holders in Finland",
+       x = "Holder",
+       y = "Average Percentage of Power") +
+  theme_minimal()
+
+# Visualisointi top 10 vallankäyttäjälle
+top_power_holders %>%
+  ggplot(aes(x = reorder(Holder, avg_percentage_power), y = avg_percentage_power)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Top 10 Power Holders in Finland",
+       x = "Holder",
+       y = "Average Percentage of Power") +
+  theme_minimal()
+
+# Tulostetaan top 35 vallankäyttäjää
+top_power_holders <- average_power %>%
+  top_n(35, avg_percentage_power)
+
+print(top_power_holders)
+
+# Visualisoidaan top 35 vallankäyttäjää
+top_power_holders %>%
+  ggplot(aes(x = reorder(Holder, avg_percentage_power), y = avg_percentage_power)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Top 35 Power Holders in Finland",
+       x = "Holder",
+       y = "Average Percentage of Power") +
+  theme_minimal()
+
+```
+
+# Top -tyypit ajassa
+
+```{r}
+
+source("top_chart.r")
+# Piirretään kuvaaja
+monthly_power_top_individuals %>%
+  filter(avg_power_last_5_years > 0) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years, color = Holder)) +
+  geom_line() +
+  geom_text(data = max_power, aes(label = Holder), vjust = -1, hjust = 1, size = 2.5) +
+  labs(title = paste("Power of Top",DRAW_TOP_N,"Power Users in Finland"),
+       x = "Month",
+       y = "5-Year Average Percentage of Power") +
+  theme_minimal() +
+  theme(legend.position = "none")  # Piilotetaan legenda, jotta kuvaaja olisi selkeämpi
+
+
+
+
+
+# Määritellään ajanjakso
+start_date <- as.Date("1917-01-01")
+end_date <- as.Date("1945-12-31")
+
+# Suodatetaan data halutulle ajanjaksolle
+filtered_data <- monthly_power_top_individuals %>%
+  filter(between(month, start_date, end_date))
+
+filtered_max_power <- max_power %>%
+  filter(between(month, start_date, end_date))
+
+# Piirretään kuvaaja suodatetulle ajanjaksolle
+filtered_data %>%
+  filter(avg_power_last_5_years > 0) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years, color = Holder)) +
+  geom_line() +
+  geom_text(data = filtered_max_power, aes(label = Holder), vjust = -1, hjust = 1, size = 2.5) +
+  labs(title = paste("Power of Top", DRAW_TOP_N, "Power Users in Finland (1917-1945)"),
+       x = "Month",
+       y = "5-Year Average Percentage of Power") +
+  theme_minimal() +
+  theme(legend.position = "none")  # Piilotetaan legenda, jotta kuvaaja olisi selkeämpi
+
+
+
+
+# Määritellään ajanjakso
+start_date <- as.Date("1946-01-01")
+end_date <- as.Date("1979-12-31")
+
+# Suodatetaan data halutulle ajanjaksolle
+filtered_data <- monthly_power_top_individuals %>%
+  filter(between(month, start_date, end_date))
+
+filtered_max_power <- max_power %>%
+  filter(between(month, start_date, end_date))
+
+# Piirretään kuvaaja suodatetulle ajanjaksolle
+filtered_data %>%
+  filter(avg_power_last_5_years > 0) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years, color = Holder)) +
+  geom_line() +
+  geom_text(data = filtered_max_power, aes(label = Holder), vjust = -1, hjust = 1, size = 2.5) +
+  labs(title = paste("Power of Top", DRAW_TOP_N, "Power Users in Finland (1946-1979)"),
+       x = "Month",
+       y = "5-Year Average Percentage of Power") +
+  theme_minimal() +
+  theme(legend.position = "none")  # Piilotetaan legenda, jotta kuvaaja olisi selkeämpi
+
+
+
+
+
+# Määritellään ajanjakso
+start_date <- as.Date("1980-01-01")
+end_date <- as.Date("1999-12-31")
+
+# Suodatetaan data halutulle ajanjaksolle
+filtered_data <- monthly_power_top_individuals %>%
+  filter(between(month, start_date, end_date))
+
+filtered_max_power <- max_power %>%
+  filter(between(month, start_date, end_date))
+
+# Piirretään kuvaaja suodatetulle ajanjaksolle
+filtered_data %>%
+  filter(avg_power_last_5_years > 0) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years, color = Holder)) +
+  geom_line() +
+  geom_text(data = filtered_max_power, aes(label = Holder), vjust = -1, hjust = 1, size = 2.5) +
+  labs(title = paste("Power of Top", DRAW_TOP_N, "Power Users in Finland (1980-1999)"),
+       x = "Month",
+       y = "5-Year Average Percentage of Power") +
+  theme_minimal() +
+  theme(legend.position = "none")  # Piilotetaan legenda, jotta kuvaaja olisi selkeämpi
+
+# Määritellään ajanjakso
+start_date <- as.Date("2000-01-01")
+end_date <- as.Date("2024-06-01")
+
+# Suodatetaan data halutulle ajanjaksolle
+filtered_data <- monthly_power_top_individuals %>%
+  filter(between(month, start_date, end_date))
+
+filtered_max_power <- max_power %>%
+  filter(between(month, start_date, end_date))
+
+# Piirretään kuvaaja suodatetulle ajanjaksolle
+filtered_data %>%
+  filter(avg_power_last_5_years > 0) %>%
+  ggplot(aes(x = month, y = avg_power_last_5_years, color = Holder)) +
+  geom_line() +
+  geom_text(data = filtered_max_power, aes(label = Holder), vjust = -1, hjust = 1, size = 2.5) +
+  labs(title = paste("Power of Top", DRAW_TOP_N, "Power Users in Finland (2000-2024)"),
+       x = "Month",
+       y = "5-Year Average Percentage of Power") +
+  theme_minimal() +
+  theme(legend.position = "none")  # Piilotetaan legenda, jotta kuvaaja olisi selkeämpi
+
+```

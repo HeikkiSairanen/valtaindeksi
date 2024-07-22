@@ -1,0 +1,59 @@
+---
+title: "piirra_bkt"
+output: html_document
+date: "2024-06-16"
+---
+
+
+```{r puolueet}
+source("draw_stack.r")
+
+```
+
+## BKT-laskuja
+
+### Ei viivettä
+
+```{r ei_viive}
+
+source("talous.r")
+puolueet <- c("SDP","KESK","VAS","VIHR","KOK","PS")
+
+for(p in puolueet) {
+  bkt_out <- bkt |> dplyr::filter(Party == p)
+  bkt_out$percentage_power_lagged <- lag(bkt_out$percentage_power,0)
+  plott <- bkt_out |> dplyr::filter(Party==p) |> ggplot(aes(x=percentage_power_lagged,y=bkt_muutos))+geom_point()+geom_smooth(method="lm")+labs(x="osuus vallasta (ei viivettä)",y="bkt:n muutos vuodessa",title=paste("BKT:n muutos vuodessa puolueen",p,"vallan (ei viivettä) funktiona"),caption="Tekijä: Heikki Sairanen, datalähde: Wikipedia")
+  print(plott)
+}
+```
+
+
+### Yhden vuoden viive
+```{r 1_vuosi_viive}
+
+
+source("talous.r")
+puolueet <- c("SDP","KESK","VAS","VIHR","KOK","PS")
+
+for(p in puolueet) {
+  bkt_out <- bkt |> dplyr::filter(Party == p)
+  bkt_out$percentage_power_lagged <- lag(bkt_out$percentage_power,4)
+  plott <- bkt_out |> dplyr::filter(Party==p) |> ggplot(aes(x=percentage_power_lagged,y=bkt_muutos))+geom_point()+geom_smooth(method="lm")+labs(x="osuus vallasta (1 vuoden viive)",y="bkt:n muutos vuodessa",title=paste("BKT:n muutos vuodessa puolueen",p,"vallan (1 vuoden viive) funktiona"),caption="Tekijä: Heikki Sairanen, datalähde: Wikipedia")
+  print(plott)
+}
+```
+
+### Yhden vuoden viive
+```{r 2_vuosi_viive}
+
+
+source("talous.r")
+puolueet <- c("SDP","KESK","VAS","VIHR","KOK","PS")
+
+for(p in puolueet) {
+  bkt_out <- bkt |> dplyr::filter(Party == p)
+  bkt_out$percentage_power_lagged <- lag(bkt_out$percentage_power,8)
+  plott <- bkt_out |> dplyr::filter(Party==p) |> ggplot(aes(x=percentage_power_lagged,y=bkt_muutos))+geom_point()+geom_smooth(method="lm")+labs(x="osuus vallasta (2 vuoden viive)",y="bkt:n muutos vuodessa",title=paste("BKT:n muutos vuodessa puolueen",p,"vallan (2 vuoden viive) funktiona"),caption="Tekijä: Heikki Sairanen, datalähde: Wikipedia")
+  print(plott)
+}
+```

@@ -1,0 +1,1195 @@
+Title,Holder,Party,begin_date,end_date
+Presidentti,K. J. Ståhlberg,EDP,1919-07-25,1925-03-02
+Presidentti,Lauri Kristian Relander,M,1925-03-02,1931-03-02
+Presidentti,P. E. Svinhufvud,KOK,1931-03-02,1937-03-01
+Presidentti,Kyösti Kallio,M,1937-03-01,1940-12-19
+Presidentti,Risto Ryti,ED,1940-12-19,1944-08-01
+Presidentti,Gustaf Mannerheim,SIT,1944-08-04,1946-03-04
+Presidentti,J. K. Paasikivi,KOK,1946-03-11,1956-03-01
+Presidentti,Urho Kekkonen,KESK,1956-03-01,1982-01-27
+Presidentti,Mauno Koivisto,SDP,1982-01-27,1994-03-01
+Presidentti,Martti Ahtisaari,SDP,1994-03-01,2000-03-01
+Presidentti,Tarja Halonen,SDP,2000-03-01,2012-03-01
+Presidentti,Sauli Niinistö,KOK,2012-03-01,2024-03-01
+Presidentti,Alexander Stubb,KOK,2024-03-01,NA
+Pääministeri,P. E. Svinhufvud,NSP,1917-11-27,1918-05-27
+Pääministeri,J. K. Paasikivi,SP,1918-05-27,1918-11-27
+Pääministeri,Lauri Ingman,KOK,1918-11-27,1919-04-17
+Pääministeri,Kaarlo Castrén,ED,1919-04-17,1919-08-15
+Pääministeri,J. H. Vennola,ED,1919-08-15,1920-03-15
+Pääministeri,Rafael Erich,KOK,1920-03-15,1921-04-09
+Pääministeri,J. H. Vennola,ED,1921-04-09,1922-06-02
+Pääministeri,A. K. Cajander,NA,1922-06-02,1922-11-14
+Pääministeri,Kyösti Kallio,KESK,1922-11-14,1924-01-18
+Pääministeri,A. K. Cajander,NA,1924-01-18,1924-05-31
+Pääministeri,Lauri Ingman,KOK,1924-05-31,1925-03-31
+Pääministeri,Antti Tulenheimo,KOK,1925-03-31,1925-12-31
+Pääministeri,Kyösti Kallio,KESK,1925-12-31,1926-12-13
+Pääministeri,Väinö Tanner,SDP,1926-12-13,1927-12-17
+Pääministeri,Juho Sunila,KESK,1927-12-17,1928-12-22
+Pääministeri,Oskari Mantere,ED,1928-12-22,1929-08-16
+Pääministeri,Kyösti Kallio,KESK,1929-08-16,1930-07-04
+Pääministeri,P. E. Svinhufvud,KOK,1930-07-04,1931-03-02
+Pääministeri,Juho Sunila,KESK,1931-03-21,1932-12-14
+Pääministeri,Toivo Kivimäki,ED,1932-12-14,1936-10-07
+Pääministeri,Kyösti Kallio,KESK,1936-10-07,1937-03-01
+Pääministeri,A. K. Cajander,ED,1937-03-12,1939-12-01
+Pääministeri,Risto Ryti,ED,1939-12-01,1940-03-27
+Pääministeri,Risto Ryti,ED,1940-03-27,1940-12-19
+Pääministeri,Jukka Rangell,ED,1941-01-03,1943-03-05
+Pääministeri,Edwin Linkomies,KOK,1943-03-05,1944-08-08
+Pääministeri,Antti Hackzell,NA,1944-08-08,1944-09-21
+Pääministeri,Urho Castrén,KOK,1944-09-21,1944-11-17
+Pääministeri,J. K. Paasikivi,NA,1944-11-17,1945-04-17
+Pääministeri,J. K. Paasikivi,NA,1945-04-17,1946-03-11
+Pääministeri,Mauno Pekkala,VAS,1946-03-26,1948-07-29
+Pääministeri,K.-A. Fagerholm,SDP,1948-07-29,1950-03-17
+Pääministeri,Urho Kekkonen,KESK,1950-03-17,1951-01-17
+Pääministeri,Urho Kekkonen,KESK,1951-01-17,1951-09-20
+Pääministeri,Urho Kekkonen,KESK,1951-09-20,1953-07-09
+Pääministeri,Urho Kekkonen,KESK,1953-07-09,1953-11-17
+Pääministeri,Sakari Tuomioja,VL,1953-11-17,1954-05-05
+Pääministeri,Ralf Törngren,RKP,1954-05-05,1954-10-20
+Pääministeri,Urho Kekkonen,KESK,1954-10-20,1956-03-01
+Pääministeri,K.-A. Fagerholm,SDP,1956-03-03,1957-05-27
+Pääministeri,V. J. Sukselainen,KESK,1957-05-27,1957-11-29
+Pääministeri,Rainer von Fieandt,NA,1957-11-29,1958-04-26
+Pääministeri,Reino Kuuskoski,NA,1958-04-26,1958-08-29
+Pääministeri,K.-A. Fagerholm,SDP,1958-08-29,1959-01-13
+Pääministeri,V. J. Sukselainen,KESK,1959-01-13,1961-07-14
+Pääministeri,Martti Miettunen,KESK,1961-07-14,1962-04-13
+Pääministeri,Ahti Karjalainen,KESK,1962-04-13,1963-12-18
+Pääministeri,Reino R. Lehto,NA,1963-12-18,1964-09-12
+Pääministeri,Johannes Virolainen,KESK,1964-09-12,1966-05-27
+Pääministeri,Rafael Paasio,SDP,1966-05-27,1968-03-22
+Pääministeri,Mauno Koivisto,SDP,1968-03-22,1970-05-14
+Pääministeri,Teuvo Aura,NA,1970-05-14,1970-08-15
+Pääministeri,Ahti Karjalainen,KESK,1970-08-15,1971-10-29
+Pääministeri,Teuvo Aura,NA,1971-10-29,1972-02-23
+Pääministeri,Rafael Paasio,SDP,1972-02-23,1972-09-04
+Pääministeri,Kalevi Sorsa,SDP,1972-09-04,1975-06-13
+Pääministeri,Keijo Liinamaa,NA,1975-07-13,1975-11-30
+Pääministeri,Martti Miettunen,KESK,1975-11-30,1976-09-29
+Pääministeri,Martti Miettunen,KESK,1976-09-29,1977-05-15
+Pääministeri,Kalevi Sorsa,SDP,1977-05-15,1979-05-26
+Pääministeri,Mauno Koivisto,SDP,1979-05-26,1982-01-26
+Pääministeri,Kalevi Sorsa,SDP,1982-02-19,1983-05-06
+Pääministeri,Kalevi Sorsa,SDP,1983-05-06,1987-04-30
+Pääministeri,Harri Holkeri,KOK,1987-04-30,1991-04-26
+Pääministeri,Esko Aho,KESK,1991-04-26,1995-04-13
+Pääministeri,Paavo Lipponen,SDP,1995-04-13,1999-04-15
+Pääministeri,Paavo Lipponen,SDP,1999-04-15,2003-04-17
+Pääministeri,Anneli Jäätteenmäki,KESK,2003-04-17,2003-06-24
+Pääministeri,Matti Vanhanen,KESK,2003-06-24,2007-04-19
+Pääministeri,Matti Vanhanen,KESK,2007-04-19,2010-06-22
+Pääministeri,Mari Kiviniemi,KESK,2010-06-22,2011-06-22
+Pääministeri,Jyrki Katainen,KOK,2011-06-22,2014-06-24
+Pääministeri,Alexander Stubb,KOK,2014-06-24,2015-05-29
+Pääministeri,Juha Sipilä,KESK,2015-05-29,2019-06-06
+Pääministeri,Antti Rinne,SDP,2019-06-06,2019-12-10
+Pääministeri,Sanna Marin,SDP,2019-12-10,2023-06-20
+Pääministeri,Petteri Orpo,KOK,2023-06-20,NA
+Valtiovarainministeri,Kaarlo Castrén,ED,1918-11-27,1919-04-17
+Valtiovarainministeri,August Ramsay,RKP,1919-04-17,1919-08-15
+Valtiovarainministeri,Johannes Lundson,ED,1919-08-15,1920-03-02
+Valtiovarainministeri,Jonathan Wartiovaara,KOK,1920-03-15,1921-04-09
+Valtiovarainministeri,Risto Ryti,ED,1921-04-09,1922-06-02
+Valtiovarainministeri,Ernst Gråsten,NA,1922-06-02,1922-11-14
+Valtiovarainministeri,Risto Ryti,ED,1922-11-14,1924-01-18
+Valtiovarainministeri,Hugo Relander,NA,1924-01-18,1924-05-31
+Valtiovarainministeri,Yrjö Pulkkinen,KOK,1924-05-31,1925-03-31
+Valtiovarainministeri,Hugo Relander,NA,1925-03-31,1925-12-31
+Valtiovarainministeri,Kyösti Järvinen,KOK,1925-12-31,1926-12-13
+Valtiovarainministeri,Hannes Ryömä,SDP,1926-12-13,1927-12-17
+Valtiovarainministeri,Juho Niukkanen,KESK,1927-12-17,1928-12-22
+Valtiovarainministeri,Hugo Relander,NA,1928-12-22,1929-08-16
+Valtiovarainministeri,Tyko Reinikka,KESK,1929-08-16,1930-07-04
+Valtiovarainministeri,Juho Vennola,ED,1930-07-04,1931-03-21
+Valtiovarainministeri,Kyösti Järvinen,KOK,1931-03-21,1932-12-14
+Valtiovarainministeri,Hugo Relander,NA,1932-12-14,1936-10-07
+Valtiovarainministeri,Juho Niukkanen,KESK,1936-10-07,1937-03-12
+Valtiovarainministeri,Väinö Tanner,SDP,1937-03-12,1939-12-01
+Valtiovarainministeri,Mauno Pekkala,SDP,1939-12-01,1942-05-22
+Valtiovarainministeri,Väinö Tanner,SDP,1942-05-22,1944-08-08
+Valtiovarainministeri,Onni Hiltunen,SDP,1944-08-08,1944-11-17
+Valtiovarainministeri,Johan Helo,SDP,1944-11-17,1945-04-17
+Valtiovarainministeri,Sakari Tuomioja,ED,1945-04-17,1945-07-17
+Valtiovarainministeri,Ralf Törngren,RKP,1945-07-17,1948-07-29
+Valtiovarainministeri,Onni Hiltunen,SDP,1948-07-29,1950-03-17
+Valtiovarainministeri,Vieno Johannes Sukselainen,KESK,1950-03-17,1951-01-17
+Valtiovarainministeri,Onni Hiltunen,SDP,1951-01-17,1951-09-20
+Valtiovarainministeri,Viljo Rantala,SDP,1951-09-20,1953-07-09
+Valtiovarainministeri,Juho Niukkanen,KESK,1953-07-09,1953-11-17
+Valtiovarainministeri,Tuure Junnila,KOK,1953-11-17,1954-05-05
+Valtiovarainministeri,Vieno Johannes Sukselainen,KESK,1954-05-05,1954-10-20
+Valtiovarainministeri,Penna Tervo,SDP,1954-10-20,1956-03-03
+Valtiovarainministeri,Aarre Simonen,SDP,1956-03-03,1957-05-27
+Valtiovarainministeri,Nils Meinander,RKP,1957-05-27,1957-07-02
+Valtiovarainministeri,Martti Miettunen,KESK,1957-07-02,1957-11-29
+Valtiovarainministeri,Lauri Hietanen,NA,1957-11-29,1958-04-26
+Valtiovarainministeri,Ilmo Nurmela,NA,1958-04-26,1958-08-29
+Valtiovarainministeri,Päiviö Hetemäki,KOK,1958-08-29,1959-01-13
+Valtiovarainministeri,Wiljam Sarjala,KESK,1959-01-13,1962-04-13
+Valtiovarainministeri,Osmo P. Karttunen,KOK,1962-04-13,1963-12-13
+Valtiovarainministeri,Mauno Jussila,KESK,1963-12-13,1963-12-18
+Valtiovarainministeri,Esko Rekola,NA,1963-12-18,1964-09-12
+Valtiovarainministeri,Esa Kaitila,KP,1964-09-12,1966-05-27
+Valtiovarainministeri,Mauno Koivisto,SDP,1966-05-27,1967-12-31
+Valtiovarainministeri,Eino Raunio,SDP,1968-01-01,1970-05-14
+Valtiovarainministeri,Päiviö Hetemäki,NA,1970-05-14,1970-07-15
+Valtiovarainministeri,Carl Olof Tallgren,RKP,1970-07-15,1971-10-29
+Valtiovarainministeri,Päiviö Hetemäki,NA,1971-10-29,1972-02-23
+Valtiovarainministeri,Mauno Koivisto,SDP,1972-02-23,1972-09-04
+Valtiovarainministeri,Johannes Virolainen,KESK,1972-09-04,1975-06-13
+Valtiovarainministeri,Heikki Tuominen,NA,1975-06-13,1975-11-30
+Valtiovarainministeri,Paul Paavela,SDP,1975-11-30,1977-05-15
+Valtiovarainministeri,Esko Rekola,NA,1976-09-29,1977-05-15
+Valtiovarainministeri,Paul Paavela,SDP,1977-05-15,1979-05-26
+Valtiovarainministeri,Ahti Pekkala,KESK,1979-05-26,1986-01-31
+Valtiovarainministeri,Esko Ollila,KESK,1986-02-01,1987-04-30
+Valtiovarainministeri,Erkki Liikanen,SDP,1987-04-30,1990-02-28
+Valtiovarainministeri,Matti Louekoski,SDP,1990-03-01,1991-04-26
+Valtiovarainministeri,Iiro Viinanen,KOK,1991-04-26,1996-02-02
+Valtiovarainministeri,Sauli Niinistö,KOK,1996-02-02,2003-04-17
+Valtiovarainministeri,Antti Kalliomäki,SDP,2003-04-17,2005-09-23
+Valtiovarainministeri,Eero Heinäluoma,SDP,2005-09-23,2007-04-19
+Valtiovarainministeri,Jyrki Katainen,KOK,2007-04-19,2011-06-22
+Valtiovarainministeri,Jutta Urpilainen,SDP,2011-06-22,2014-06-06
+Valtiovarainministeri,Antti Rinne,SDP,2014-06-06,2015-05-29
+Valtiovarainministeri,Alexander Stubb,KOK,2015-05-29,2016-06-22
+Valtiovarainministeri,Petteri Orpo,KOK,2016-06-22,2019-06-06
+Valtiovarainministeri,Mika Lintilä,KESK,2019-06-06,2019-12-10
+Valtiovarainministeri,Katri Kulmuni,KESK,2019-12-10,2020-06-09
+Valtiovarainministeri,Matti Vanhanen,KESK,2020-06-09,2021-05-27
+Valtiovarainministeri,Annika Saarikko,KESK,2021-05-27,2023-06-20
+Valtiovarainministeri,Riikka Purra,PS,2023-06-20,NA
+Ulkoasiainministeri,Otto Stenroth,Nuors.,1918-05-27,1918-11-27
+Ulkoasiainministeri,Carl Enckell,NA,1918-11-27,1919-04-17
+Ulkoasiainministeri,Rudolf Holsti,ED,1919-04-28,1922-05-20
+Ulkoasiainministeri,Carl Enckell,NA,1922-06-02,1922-11-14
+Ulkoasiainministeri,Juho Vennola,ED,1922-11-14,1924-01-18
+Ulkoasiainministeri,Carl Enckell,NA,1924-01-18,1924-05-31
+Ulkoasiainministeri,Hjalmar Procopé,RKP,1924-05-31,1925-03-31
+Ulkoasiainministeri,Gustaf Idman,NA,1925-03-31,1925-12-31
+Ulkoasiainministeri,E. N. Setälä,KOK,1925-12-31,1926-12-13
+Ulkoasiainministeri,Väinö Voionmaa,SDP,1926-12-13,1927-12-17
+Ulkoasiainministeri,Hjalmar Procopé,NA,1927-12-17,1931-03-21
+Ulkoasiainministeri,Aarno Yrjö-Koskinen,KOK,1931-03-21,1932-12-14
+Ulkoasiainministeri,Antti Hackzell,NA,1932-12-14,1936-10-07
+Ulkoasiainministeri,Rudolf Holsti,ED,1936-10-07,1938-11-16
+Ulkoasiainministeri,Väinö Voionmaa,SDP,1938-11-16,1938-12-01
+Ulkoasiainministeri,Eljas Erkko,ED,1938-12-12,1939-12-01
+Ulkoasiainministeri,Väinö Tanner,SDP,1939-12-01,1940-03-27
+Ulkoasiainministeri,Rolf Witting,RKP,1940-03-27,1943-03-04
+Ulkoasiainministeri,Henrik Ramsay,RKP,1943-03-04,1944-08-08
+Ulkoasiainministeri,Carl Enckell,NA,1944-08-08,1946-03-26
+Ulkoasiainministeri,Åke Gartz,NA,1950-03-17,1952-09-20
+Ulkoasiainministeri,Sakari Tuomioja,NA,1952-09-20,1953-11-17
+Ulkoasiainministeri,Urho Kekkonen,KESK,1953-11-17,1954-05-05
+Ulkoasiainministeri,Ralf Törngren,RKP,1954-05-05,1954-10-20
+Ulkoasiainministeri,Johannes Virolainen,KESK,1954-10-20,1956-03-03
+Ulkoasiainministeri,Ralf Törngren,RKP,1956-03-03,1957-05-27
+Ulkoasiainministeri,Johannes Virolainen,KESK,1957-05-27,1957-11-29
+Ulkoasiainministeri,Paavo Hynninen,NA,1957-11-29,1958-04-26
+Ulkoasiainministeri,K.-A. Fagerholm,SDP,1958-12-04,1959-01-13
+Ulkoasiainministeri,Ralf Törngren,RKP,1959-01-13,1961-05-16
+Ulkoasiainministeri,V. J. Sukselainen,KESK,1961-05-16,1961-06-19
+Ulkoasiainministeri,Ahti Karjalainen,KESK,1961-06-19,1962-12-13
+Ulkoasiainministeri,Veli Merikoski,KP,1962-12-13,1963-12-18
+Ulkoasiainministeri,Jaakko Hallama,NA,1963-12-18,1964-09-12
+Ulkoasiainministeri,Ahti Karjalainen,KESK,1964-09-12,1970-07-15
+Ulkoasiainministeri,Väinö Leskinen,NA,1970-07-15,1971-10-29
+Ulkoasiainministeri,Olavi J. Mattila,NA,1971-10-29,1972-02-23
+Ulkoasiainministeri,Kalevi Sorsa,SDP,1972-02-23,1975-11-30
+Ulkoasiainministeri,Keijo Korhonen,KESK,1976-09-29,1977-05-15
+Ulkoasiainministeri,Paavo Väyrynen,KESK,1977-05-15,1987-04-30
+Ulkoasiainministeri,Pär Stenbäck,RKP,1982-05-19,1983-05-06
+Ulkoasiainministeri,Kalevi Sorsa,SDP,1987-04-30,1989-01-31
+Ulkoasiainministeri,Pertti Paasio,SDP,1989-01-31,1991-04-26
+Ulkoasiainministeri,Paavo Väyrynen,KESK,1991-04-26,1993-05-05
+Ulkoasiainministeri,Heikki Haavisto,KESK,1993-05-05,1995-02-03
+Ulkoasiainministeri,Paavo Rantanen,NA,1995-02-03,1995-04-13
+Ulkoasiainministeri,Tarja Halonen,SDP,1995-04-13,2000-02-25
+Ulkoasiainministeri,Erkki Tuomioja,SDP,2000-02-25,2007-04-19
+Ulkoasiainministeri,Ilkka Kanerva,KOK,2007-04-19,2008-04-04
+Ulkoasiainministeri,Alexander Stubb,KOK,2008-04-04,2011-06-22
+Ulkoasiainministeri,Erkki Tuomioja,SDP,2011-06-22,2015-05-29
+Ulkoasiainministeri,Timo Soini,PS,2015-05-29,2017-06-13
+Ulkoasiainministeri,Timo Soini,SIN,2017-06-13,2019-06-06
+Ulkoasiainministeri,Pekka Haavisto,VIHR,2019-06-06,2023-06-20
+Ulkoasiainministeri,Elina Valtonen,KOK,2023-06-20,NA
+Sota-asiain päällikkö,Vilhelm Thesleff,NA,1918-05-27,1918-11-27
+Sotaministeri,Rudolf Walden,NA,1918-11-27,1919-04-17
+Sotaministeri,Karl Emil Berg,NA,1919-08-15,1920-03-15
+Sotaministeri,Bruno Jalander,NA,1920-03-15,1921-09-03
+Sotaministeri,Onni Hämäläinen,NA,1921-09-03,1922-06-02
+Puolustusministeri,Bruno Jalander,NA,1922-06-02,1923-06-22
+Puolustusministeri,Kyösti Kallio,KESK,1923-06-22,1923-08-16
+Puolustusministeri,Vilho Nenonen,NA,1923-08-16,1924-01-18
+Puolustusministeri,Viktor Henrik Schvindt,NA,1924-01-18,1924-03-11
+Puolustusministeri,Ivar Aminoff,NA,1924-03-11,1924-05-31
+Puolustusministeri,Lauri Malmberg,NA,1924-05-31,1925-03-31
+Puolustusministeri,Aleksander Lampén,KOK,1925-03-31,1925-12-31
+Puolustusministeri,Leonard Hjelmman,KOK,1925-12-31,1926-12-13
+Puolustusministeri,Kaarlo Heinonen,SDP,1926-12-13,1927-12-17
+Puolustusministeri,Jalo Lahdensuo,KESK,1927-12-17,1928-12-22
+Puolustusministeri,Aimo Kaarlo Cajander,NA,1928-12-22,1929-08-16
+Puolustusministeri,Juho Niukkanen,KESK,1929-08-16,1930-07-10
+Puolustusministeri,Albin Manner,KESK,1930-07-10,1931-03-21
+Puolustusministeri,Jalo Lahdensuo,KESK,1931-03-21,1932-12-14
+Puolustusministeri,Arvi Oksala,NA,1932-12-14,1937-03-12
+Puolustusministeri,Juho Niukkanen,KESK,1937-03-12,1940-03-27
+Puolustusministeri,Rudolf Walden,NA,1940-03-27,1944-12-01
+Puolustusministeri,Väinö Valve,NA,1944-12-01,1945-04-17
+Puolustusministeri,Mauno Pekkala,VAS,1945-04-17,1946-03-27
+Puolustusministeri,Yrjö Kallinen,SDP,1946-03-27,1948-07-29
+Puolustusministeri,Emil Skog,SDP,1948-07-29,1950-03-17
+Puolustusministeri,Kustaa Tiitu,KESK,1950-03-17,1951-01-17
+Puolustusministeri,Emil Skog,SDP,1951-01-17,1953-07-09
+Puolustusministeri,Kauno Kleemola,KESK,1953-07-09,1953-11-17
+Puolustusministeri,Päiviö Hetemäki,KOK,1953-11-17,1954-05-05
+Puolustusministeri,Emil Skog,SDP,1954-05-05,1957-05-27
+Puolustusministeri,Atte Pakkanen,KESK,1957-05-27,1957-09-02
+Puolustusministeri,Pekka Malinen,KP,1957-09-02,1957-11-29
+Puolustusministeri,Kalle Lehmus,NA,1957-11-29,1958-04-26
+Puolustusministeri,Edvard Björkenheim,NA,1958-04-26,1958-08-29
+Puolustusministeri,Toivo Wiherheimo,KOK,1958-08-29,1959-01-13
+Puolustusministeri,Leo Häppölä,KESK,1959-01-13,1961-07-14
+Puolustusministeri,Arvo Pentti,KESK,1961-07-14,1962-04-13
+Puolustusministeri,Arvo Pentti,KESK,1962-09-12,1970-07-15
+Puolustusministeri,Kristian Gestrin,RKP,1970-07-15,1971-10-29
+Puolustusministeri,Arvo Pentti,NA,1971-10-29,1972-02-23
+Puolustusministeri,Sulo Hostila,SDP,1972-02-23,1972-09-04
+Puolustusministeri,Carl-Olaf Homén,RKP,1972-09-04,1975-11-30
+Puolustusministeri,Erkki Huurtamo,NA,1975-06-13,1975-11-30
+Puolustusministeri,Ingvar S. Melin,RKP,1975-11-30,1976-09-29
+Puolustusministeri,Seppo Westerlund,LKP,1976-09-29,1977-05-15
+Puolustusministeri,Taisto Tähkämaa,KESK,1977-05-15,1979-05-26
+Puolustusministeri,Lasse Äikäs,KESK,1979-05-26,1982-02-19
+Puolustusministeri,Juhani Saukkonen,KESK,1982-02-19,1983-05-06
+Puolustusministeri,Veikko Pihlajamäki,KESK,1983-05-06,1987-04-30
+Puolustusministeri,Ole Norrback,RKP,1987-04-30,1990-06-13
+Puolustusministeri,Elisabeth Rehn,RKP,1990-06-13,1995-01-02
+Puolustusministeri,Jan-Erik Enestam,RKP,1995-01-02,1995-04-13
+Puolustusministeri,Anneli Taina,KOK,1995-04-13,1999-04-15
+Puolustusministeri,Jan-Erik Enestam,RKP,1999-04-15,2003-04-17
+Puolustusministeri,Matti Vanhanen,KESK,2003-04-17,2003-06-24
+Puolustusministeri,Seppo Kääriäinen,KESK,2003-06-24,2007-04-19
+Puolustusministeri,Jyri Häkämies,KOK,2007-04-19,2011-06-22
+Puolustusministeri,Stefan Wallin,RKP,2011-06-22,2012-07-05
+Puolustusministeri,Carl Haglund,RKP,2012-07-05,2015-05-29
+Puolustusministeri,Jussi Niinistö,PS,2015-05-29,2017-06-13
+Puolustusministeri,Jussi Niinistö,SIN,2017-06-13,2019-06-06
+Puolustusministeri,Antti Kaikkonen,KESK,2019-06-06,2023-01-05
+Puolustusministeri,Mikko Savola,KESK,2023-01-05,2023-02-28
+Puolustusministeri,Antti Kaikkonen,KESK,2023-02-28,2023-06-20
+Puolustusministeri,Antti Häkkänen,KOK,2023-06-20,NA
+Sisäasiaintoimituskunnan päällikkö,Arthur Castrén,NUORS,1917-11-27,1918-05-27
+Sisäasiainministeri,Antti Tulenheimo,KOK,1918-11-27,1919-04-17
+Sisäasiainministeri,Carl Voss-Schrader,RKP,1919-04-17,1919-08-15
+Sisäasiainministeri,Heikki Ritavuori,ED,1919-08-15,1920-03-15
+Sisäasiainministeri,Albert von Hellens,ED,1920-03-15,1921-04-09
+Sisäasiainministeri,Heikki Ritavuori,ED,1921-04-09,1922-02-14
+Sisäasiainministeri,Heimo Helminen,ED,1922-02-24,1922-06-02
+Sisäasiainministeri,Yrjö Johannes Eskelä,NA,1922-06-02,1922-11-14
+Sisäasiainministeri,Vilkku Joukahainen,KESK,1922-11-14,1924-01-18
+Sisäasiainministeri,Yrjö Johannes Eskelä,NA,1924-01-18,1924-05-31
+Sisäasiainministeri,Gunnar Sahlstein,KOK,1924-05-31,1925-03-31
+Sisäasiainministeri,Matti Aura,NA,1925-03-31,1925-12-31
+Sisäasiainministeri,Gustaf Ignatius,KOK,1925-12-31,1926-12-13
+Sisäasiainministeri,Rieti Itkonen,SDP,1926-12-13,1927-04-12
+Sisäasiainministeri,Olavi Puro,SDP,1927-04-29,1927-12-17
+Sisäasiainministeri,Matti Aura,NA,1927-12-17,1928-12-22
+Sisäasiainministeri,Toivo Kivimäki,ED,1928-12-22,1929-08-16
+Sisäasiainministeri,Arvo Linturi,NA,1929-08-16,1930-07-04
+Sisäasiainministeri,Erkki Kuokkanen,KOK,1930-07-04,1931-03-21
+Sisäasiainministeri,Ernst von Born,RKP,1931-03-21,1932-12-14
+Sisäasiainministeri,Yrjö Puhakka,NA,1932-12-14,1937-03-12
+Sisäasiainministeri,Urho Kekkonen,KESK,1937-03-12,1939-12-01
+Sisäasiainministeri,Ernst von Born,RKP,1939-12-01,1941-05-13
+Sisäasiainministeri,Toivo Horelli,KOK,1941-05-13,1943-03-05
+Sisäasiainministeri,Leo Ehrnrooth,RKP,1943-03-05,1944-08-08
+Sisäasiainministeri,Kaarlo Hillilä,KESK,1944-08-08,1945-04-17
+Sisäasiainministeri,Yrjö Leino,VAS,1945-04-17,1948-05-22
+Sisäasiainministeri,Eino Kilpi,VAS,1948-05-26,1948-07-29
+Sisäasiainministeri,Aarre Simonen,SDP,1948-07-29,1950-03-17
+Sisäasiainministeri,Urho Kekkonen,KESK,1950-03-17,1951-01-17
+Sisäasiainministeri,V. J. Sukselainen,KESK,1951-01-17,1953-11-17
+Sisäasiainministeri,Heikki Kannisto,KP,1953-11-17,1954-05-05
+Sisäasiainministeri,Väinö Leskinen,SDP,1954-05-05,1955-09-30
+Sisäasiainministeri,Valto Käkelä,SDP,1955-09-30,1956-03-03
+Sisäasiainministeri,Vilho Väyrynen,SDP,1956-03-03,1957-05-27
+Sisäasiainministeri,Harras Kyttä,KP,1957-05-27,1957-09-02
+Sisäasiainministeri,Teuvo Aura,NA,1957-09-02,1957-11-29
+Sisäasiainministeri,Urho Kiukas,NA,1957-11-29,1958-04-26
+Sisäasiainministeri,Harras Kyttä,NA,1958-04-26,1958-08-29
+Sisäasiainministeri,Atte Pakkanen,KESK,1958-08-29,1959-01-13
+Sisäasiainministeri,Eino Palovesi,KESK,1959-01-13,1960-02-04
+Sisäasiainministeri,Eemil Vihtori Luukka,KESK,1960-02-04,1962-04-13
+Sisäasiainministeri,Eeli Erkkilä,KESK,1962-04-13,1963-02-08
+Sisäasiainministeri,Niilo Ryhtä,KESK,1963-02-08,1963-12-18
+Sisäasiainministeri,Arno Hannus,NA,1963-12-18,1964-09-12
+Sisäasiainministeri,Niilo Ryhtä,KESK,1964-09-12,1966-05-27
+Sisäasiainministeri,Martti Viitanen,SDP,1966-05-27,1967-11-30
+Sisäasiainministeri,Antero Väyrynen,SDP,1967-12-01,1970-05-14
+Sisäasiainministeri,Teemu Hiltunen,NA,1970-05-14,1970-07-15
+Sisäasiainministeri,Artturi Jämsén,KESK,1970-07-15,1971-05-28
+Sisäasiainministeri,Eino Uusitalo,KESK,1971-05-28,1971-10-29
+Sisäasiainministeri,Heikki Tuominen,NA,1971-10-29,1972-02-23
+Sisäasiainministeri,Martti Viitanen,SDP,1972-02-23,1972-09-04
+Sisäasiainministeri,Heikki Tuominen,NA,1972-09-04,1975-06-13
+Sisäasiainministeri,Heikki Koski,NA,1975-06-13,1975-11-30
+Sisäasiainministeri,Paavo Tiilikainen,SDP,1975-11-30,1976-09-29
+Sisäasiainministeri,Eino Uusitalo,KESK,1976-09-29,1982-02-19
+Sisäasiainministeri,Matti Ahde,SDP,1982-02-19,1983-09-30
+Sisäasiainministeri,Matti Luttinen,SDP,1983-10-01,1984-11-30
+Sisäasiainministeri,Kaisa Raatikainen,SDP,1984-12-01,1987-04-30
+Sisäasiainministeri,Jarmo Rantanen,SDP,1987-04-30,1991-04-26
+Sisäasiainministeri,Mauri Pekkarinen,KESK,1991-04-26,1995-04-13
+Sisäasiainministeri,Jan-Erik Enestam,RKP,1995-04-13,1999-04-15
+Sisäasiainministeri,Kari Häkämies,KOK,1999-04-15,2000-09-01
+Sisäasiainministeri,Ville Itälä,KOK,2000-09-01,2003-04-17
+Sisäasiainministeri,Kari Rajamäki,SDP,2003-04-17,2007-04-19
+Sisäasiainministeri,Anne Holmlund,KOK,2007-04-19,2011-06-22
+Sisäasiainministeri,Päivi Räsänen,KD,2011-06-22,2015-05-29
+Sisäasiainministeri,Petteri Orpo,KOK,2015-05-29,2016-06-22
+Sisäasiainministeri,Paula Risikko,KOK,2016-06-22,2018-02-05
+Sisäasiainministeri,Kai Mykkänen,KOK,2018-02-12,2019-06-06
+Sisäasiainministeri,Maria Ohisalo,VIHR,2019-06-06,2021-11-19
+Sisäasiainministeri,Krista Mikkonen,VIHR,2021-11-19,2023-06-20
+Sisäasiainministeri,Mari Rantanen,PS,2023-06-20,
+Oikeustoimikunnan päällikkö,Onni Talas,Nuors.,1917-11-27,1918-05-27
+Oikeustoimikunnan päällikkö,Onni Talas,Nuors.,1918-05-27,1918-11-27
+Oikeusministeri,Karl Söderholm,RKP,1918-11-27,1919-04-17
+Oikeusministeri,Karl Söderholm,RKP,1919-04-17,1919-08-15
+Oikeusministeri,Hjalmar Kahelin,ED,1919-08-15,1920-01-30
+Oikeusministeri,Karl Söderholm,RKP,1920-03-15,1920-06-28
+Oikeusministeri,Hjalmar Granfelt,RKP,1920-06-28,1921-04-09
+Oikeusministeri,Heimo Helminen,ED,1921-04-09,1922-02-24
+Oikeusministeri,Albert von Hellens,ED,1922-02-24,1922-06-02
+Oikeusministeri,Oskar Lilius,NA,1922-06-02,1922-11-14
+Oikeusministeri,Otto Åkesson,KESK,1922-11-14,1923-12-21
+Oikeusministeri,Elias Sopanen,ED,1923-12-21,1924-01-18
+Oikeusministeri,Oskar Lilius,NA,1924-01-18,1924-05-31
+Oikeusministeri,Albert von Hellens,ED,1924-05-31,1925-03-31
+Oikeusministeri,Oskar Lilius,NA,1925-03-31,1925-12-31
+Oikeusministeri,Urho Castrén,KOK,1925-12-31,1926-12-13
+Oikeusministeri,Väinö Hakkila,SDP,1926-12-13,1927-12-17
+Oikeusministeri,Torsten Malinen,NA,1927-12-17,1928-12-22
+Oikeusministeri,Anton Kotonen,NA,1928-12-22,1929-02-18
+Oikeusministeri,Oiva Huttunen,NA,1929-02-18,1929-08-16
+Oikeusministeri,Elieser Kaila,KESK,1929-08-16,1930-07-04
+Oikeusministeri,Karl Söderholm,RKP,1930-07-04,1931-03-21
+Oikeusministeri,Toivo Kivimäki,ED,1931-03-21,1932-12-14
+Oikeusministeri,Hugo Malmberg,RKP,1932-12-14,1933-02-27
+Oikeusministeri,Eric J. Serlachius,RKP,1933-02-27,1936-02-28
+Oikeusministeri,Emil Jatkola,ED,1936-03-06,1936-10-07
+Oikeusministeri,Urho Kekkonen,KESK,1936-10-07,1937-03-12
+Oikeusministeri,Arvi Ahmavaara,NA,1937-03-18,1938-01-11
+Oikeusministeri,Albin Ewald Rautavaara,NA,1938-01-11,1939-10-13
+Oikeusministeri,Johan Otto Söderhjelm,RKP,1939-10-13,1939-12-01
+Oikeusministeri,Johan Otto Söderhjelm,RKP,1939-12-01,1940-03-27
+Oikeusministeri,Oskari Lehtonen,KOK,1940-03-27,1941-01-04
+Oikeusministeri,Oskari Lehtonen,KOK,1941-01-04,1943-03-05
+Oikeusministeri,Oskari Lehtonen,KOK,1943-03-05,1944-08-08
+Oikeusministeri,Ernst von Born,RKP,1944-08-08,1944-09-21
+Oikeusministeri,Ernst von Born,RKP,1944-09-21,1944-11-17
+Oikeusministeri,Urho Kekkonen,KESK,1944-11-17,1945-04-17
+Oikeusministeri,Urho Kekkonen,KESK,1945-04-17,1946-03-26
+Oikeusministeri,Eino Pekkala,VAS,1946-03-26,1948-07-29
+Oikeusministeri,Tauno Suontausta,SDP,1948-07-29,1950-03-17
+Oikeusministeri,Heikki Kannisto,ED,1950-03-17,1951-01-17
+Oikeusministeri,Teuvo Aura,ED,1951-01-17,1951-09-20
+Oikeusministeri,Urho Kekkonen,KESK,1951-09-20,1951-09-22
+Oikeusministeri,Sven Högström,RKP,1951-09-22,1953-07-09
+Oikeusministeri,Sven Högström,RKP,1953-07-09,1953-11-17
+Oikeusministeri,Reino Kuuskoski,NA,1953-11-17,1954-05-05
+Oikeusministeri,Yrjö Puhakka,NA,1954-05-05,1954-10-20
+Oikeusministeri,Aarre Simonen,SDP,1954-10-20,1954-11-06
+Oikeusministeri,Weio Henriksson,NA,1954-11-06,1956-03-03
+Oikeusministeri,Vilho Väyrynen,SDP,1956-03-03,1956-05-02
+Oikeusministeri,Arvo Helminen,NA,1956-05-02,1957-05-27
+Oikeusministeri,Arvo Helminen,NA,1957-05-27,1957-09-02
+Oikeusministeri,Johan Otto Söderhjelm,NA,1957-09-02,1957-11-29
+Oikeusministeri,Kurt Kaira,NA,1957-11-29,1958-04-26
+Oikeusministeri,Johan Otto Söderhjelm,NA,1958-04-26,1958-08-29
+Oikeusministeri,Sven Högström,RKP,1958-08-29,1959-01-13
+Oikeusministeri,Antti Hannikainen,KESK,1959-01-13,1961-04-14
+Oikeusministeri,Pauli Lehtosalo,KESK,1961-04-14,1961-07-14
+Oikeusministeri,Pauli Lehtosalo,KESK,1961-07-14,1962-04-13
+Oikeusministeri,Johan Otto Söderhjelm,RKP,1962-04-13,1963-12-18
+Oikeusministeri,Olavi Merimaa,NA,1963-12-18,1964-09-12
+Oikeusministeri,Johan Otto Söderhjelm,RKP,1964-09-12,1966-05-27
+Oikeusministeri,Aarre Simonen,TPSL,1966-05-27,1968-03-22
+Oikeusministeri,Aarre Simonen,TPSL,1968-03-22,1970-05-14
+Oikeusministeri,Keijo Liinamaa,NA,1970-05-14,1970-07-15
+Oikeusministeri,Erkki Tuominen,VAS,1970-07-15,1971-03-26
+Oikeusministeri,Mikko Laaksonen,SDP,1971-03-26,1971-09-30
+Oikeusministeri,Jacob Söderman,SDP,1971-10-01,1971-10-29
+Oikeusministeri,K. J. Lång,NA,1971-10-29,1972-02-23
+Oikeusministeri,Pekka Paavola,SDP,1972-02-23,1972-09-04
+Oikeusministeri,Matti Louekoski,SDP,1972-09-04,1975-06-13
+Oikeusministeri,Inkeri Anttila,NA,1975-06-13,1975-11-30
+Oikeusministeri,Kristian Gestrin,RKP,1975-11-30,1976-09-29
+Oikeusministeri,Kristian Gestrin,RKP,1976-09-29,1977-05-15
+Oikeusministeri,Tuure Salo,LKP,1977-05-15,1978-03-02
+Oikeusministeri,Paavo Nikula,LKP,1978-03-02,1979-05-26
+Oikeusministeri,Christoffer Taxell,RKP,1979-05-26,1982-02-19
+Oikeusministeri,Christoffer Taxell,RKP,1982-02-19,1983-05-06
+Oikeusministeri,Christoffer Taxell,RKP,1983-05-06,1987-04-30
+Oikeusministeri,Matti Louekoski,SDP,1987-04-30,1990-02-28
+Oikeusministeri,Tarja Halonen,SDP,1990-03-01,1991-04-26
+Oikeusministeri,Hannele Pokka,KESK,1991-04-26,1994-04-30
+Oikeusministeri,Anneli Jäätteenmäki,KESK,1994-05-01,1995-04-13
+Oikeusministeri,Sauli Niinistö,KOK,1995-04-13,1996-02-02
+Oikeusministeri,Kari Häkämies,KOK,1996-02-02,1998-03-13
+Oikeusministeri,Jussi Järventaus,KOK,1998-03-13,1999-04-15
+Oikeusministeri,Johannes Koskinen,SDP,1999-04-15,2003-04-17
+Oikeusministeri,Johannes Koskinen,SDP,2003-04-17,2003-06-24
+Oikeusministeri,Johannes Koskinen,SDP,2003-06-24,2005-09-22
+Oikeusministeri,Leena Luhtanen,SDP,2005-09-23,2007-04-19
+Oikeusministeri,Tuija Brax,VIHR,2007-04-19,2010-06-22
+Oikeusministeri,Tuija Brax,VIHR,2010-06-22,2011-06-22
+Oikeusministeri,Anna-Maja Henriksson,RKP,2011-06-22,2014-06-24
+Oikeusministeri,Anna-Maja Henriksson,RKP,2014-06-24,2015-05-29
+Työ- ja oikeusministeri,Jari Lindström,PS,2015-05-29,2017-05-05
+Oikeusministeri,Antti Häkkänen,KOK,2017-05-05,2019-06-06
+Oikeusministeri,Anna-Maja Henriksson,RKP,2019-06-06,2019-12-10
+Oikeusministeri,Anna-Maja Henriksson,RKP,2019-12-10,2023-06-20
+Oikeusministeri,Leena Meri,PS,2023-06-20,NA
+Kirkollis- ja opetustoimikunnan päällikkö,Emil Setälä,Nuors.,1917-11-27,1918-05-27
+Kirkollis- ja opetustoimikunnan päällikkö,Emil Setälä,Nuors.,1918-05-27,1918-11-27
+Kirkollis- ja opetusministeri,Mikael Soininen,ED,1918-11-27,1919-04-17
+Kirkollis- ja opetusministeri,Mikael Soininen,ED,1919-04-17,1919-08-15
+Kirkollis- ja opetusministeri,Mikael Soininen,ED,1919-08-15,1920-03-15
+Kirkollis- ja opetusministeri,Lauri Ingman,KOK,1920-03-15,1921-04-09
+Kirkollis- ja opetusministeri,Niilo Liakka,KESK,1921-04-09,1922-06-02
+Opetusministeri,Yrjö Loimaranta,NA,1922-06-02,1922-11-14
+Opetusministeri,Niilo Liakka,KESK,1922-11-14,1924-01-18
+Opetusministeri,Yrjö Loimaranta,NA,1924-01-18,1924-05-31
+Opetusministeri,Lauri Ingman,KOK,1924-05-31,1925-03-31
+Opetusministeri,Emil Setälä,KOK,1925-03-31,1925-12-31
+Opetusministeri,Lauri Ingman,KOK,1925-12-31,1926-12-13
+Opetusministeri,Julius Ailio,SDP,1926-12-13,1927-12-17
+Opetusministeri,Antti Kukkonen,KESK,1927-12-17,1928-12-22
+Opetusministeri,Lauri Ingman,KOK,1928-12-22,1929-08-16
+Opetusministeri,Antti Kukkonen,KESK,1929-08-16,1930-07-04
+Opetusministeri,Paavo Virkkunen,KOK,1930-07-04,1931-03-21
+Opetusministeri,Antti Kukkonen,KESK,1931-03-21,1932-12-14
+Opetusministeri,Oskari Mantere,ED,1932-12-14,1936-10-07
+Opetusministeri,Antti Kukkonen,KESK,1936-10-07,1937-03-12
+Opetusministeri,Uuno Hannula,KESK,1937-03-12,1939-12-01
+Opetusministeri,Uuno Hannula,KESK,1939-12-01,1940-03-27
+Opetusministeri,Antti Kukkonen,KESK,1940-03-27,1941-01-04
+Opetusministeri,Antti Kukkonen,KESK,1941-01-04,1943-03-05
+Opetusministeri,Kalle Kauppi,ED,1943-03-05,1944-08-08
+Opetusministeri,Kalle Kauppi,ED,1944-08-08,1944-09-21
+Opetusministeri,Kalle Kauppi,ED,1944-09-21,1944-11-17
+Opetusministeri,Uuno Takki,SDP,1944-11-17,1945-04-17
+Opetusministeri,Johan Helo,VAS,1945-04-17,1945-12-28
+Opetusministeri,Eino Pekkala,VAS,1945-12-28,1946-03-26
+Opetusministeri,Eino (Juho) Kilpi,SDP,1946-03-26,1948-05-26
+Opetusministeri,Lennart Heljas,KESK,1948-05-26,1948-07-29
+Opetusministeri,Reino Oittinen,SDP,1948-07-29,1950-03-17
+Opetusministeri,Lennart Heljas,KESK,1950-03-17,1951-01-17
+Opetusministeri,Lennart Heljas,KESK,1951-01-17,1951-09-20
+Opetusministeri,Reino Oittinen,SDP,1951-09-20,1953-07-09
+Opetusministeri,Johannes Virolainen,KESK,1953-07-09,1953-11-17
+Opetusministeri,Arvo Salminen,KOK,1953-11-17,1954-05-05
+Opetusministeri,Johannes Virolainen,KESK,1954-05-05,1954-10-20
+Opetusministeri,Kerttu Saalasti,KESK,1954-10-20,1956-03-03
+Opetusministeri,Johannes Virolainen,KESK,1956-03-03,1957-05-27
+Opetusministeri,Kerttu Saalasti,KESK,1957-05-27,1957-11-29
+Opetusministeri,Reino Oittinen,NA,1957-11-29,1958-04-26
+Opetusministeri,Kustaa Vilkuna,NA,1958-04-26,1958-08-29
+Opetusministeri,Kaarlo Kajatsalo,KP,1958-08-29,1959-01-13
+Opetusministeri,Heikki Hosia,KESK,1959-01-13,1961-07-14
+Opetusministeri,Armi Hosia,KP,1961-07-14,1963-12-18
+Opetusministeri,Reino Oittinen,SDP,1963-12-18,1964-09-12
+Opetusministeri,Jussi Saukkonen,KOK,1964-09-12,1966-05-27
+Opetusministeri,Reino Oittinen,SDP,1966-05-27,1968-03-22
+Opetusministeri,Johannes Virolainen,KESK,1968-03-22,1970-05-14
+Opetusministeri,Jaakko Numminen,NA,1970-05-14,1970-07-15
+Opetusministeri,Jaakko Itälä,LKP,1970-07-15,1971-10-29
+Opetusministeri,Matti Louekoski,NA,1971-10-29,1972-02-23
+Opetusministeri,Ulf Sundqvist,SDP,1972-02-23,1974-05-31
+Opetusministeri,Varma Kallio,SDP,1974-06-01,1974-09-09
+Opetusministeri,Ulf Sundqvist,SDP,1974-09-09,1975-06-13
+Opetusministeri,Lauri Posti,NA,1975-06-13,1975-11-30
+Opetusministeri,Paavo Väyrynen,KESK,1975-11-30,1976-09-29
+Opetusministeri,Marjatta Väänänen,KESK,1976-09-29,1977-05-15
+Opetusministeri,Kristian Gestrin,RKP,1977-05-15,1978-03-02
+Opetusministeri,Jaakko Itälä,LKP,1978-03-02,1979-05-26
+Opetusministeri,Pär Stenbäck,RKP,1979-05-26,1982-02-19
+Opetusministeri,Kalevi Kivistö,VAS,1982-02-19,1982-12-31
+Opetusministeri,Kaarina Suonio,SDP,1982-12-31,1983-05-06
+Opetusministeri,Kaarina Suonio,SDP,1983-05-06,1986-05-31
+Opetusministeri,Pirjo Ala-Kapee,SDP,1986-06-01,1987-04-30
+Opetusministeri,Christoffer Taxell,RKP,1987-04-30,1990-06-13
+Opetusministeri,Ole Norrback,RKP,1990-06-13,1991-04-26
+Opetusministeri,Riitta Uosukainen,KOK,1991-04-26,1994-02-11
+Opetusministeri,Olli-Pekka Heinonen,KOK,1994-02-11,1995-04-13
+Opetusministeri,Olli-Pekka Heinonen,KOK,1995-04-13,1999-04-15
+Opetusministeri,Maija Rask,SDP,1999-04-15,2003-04-17
+Opetusministeri,Tuula Haatainen,SDP,2003-04-17,2003-06-24
+Opetusministeri,Tuula Haatainen,SDP,2003-06-24,2005-09-22
+Opetusministeri,Antti Kalliomäki,SDP,2005-09-23,2007-04-19
+Opetusministeri,Sari Sarkomaa,KOK,2007-04-19,2008-12-19
+Opetusministeri,Henna Virkkunen,KOK,2008-12-19,2010-06-22
+Opetusministeri,Henna Virkkunen,KOK,2010-06-22,2011-06-22
+Opetusministeri,Jukka Gustafsson,SDP,2011-06-22,2013-05-24
+Opetusministeri,Krista Kiuru,SDP,2013-05-24,2014-04-04
+Opetus- ja viestintäministeri,Krista Kiuru,SDP,2014-04-04,2014-06-24
+Opetus- ja viestintäministeri,Krista Kiuru,SDP,2014-06-24,2015-05-29
+Opetus- ja kulttuuriministeri,Sanni Grahn-Laasonen,KOK,2015-05-29,2017-05-05
+Opetusministeri,Sanni Grahn-Laasonen,KOK,2017-05-05,2019-06-06
+Opetusministeri,Li Andersson,VAS,2019-06-06,2019-12-10
+Opetusministeri,Li Andersson,VAS,2019-12-10,2020-12-17
+Opetusministeri,Jussi Saramo,VAS,2020-12-17,2021-06-29
+Opetusministeri,Li Andersson,VAS,2021-06-29,2023-06-20
+Opetusministeri,Anna-Maja Henriksson,RKP,2023-06-20,NA
+Maataloustoimikunnan päällikkö,Kyösti Kallio,KESK,1917-11-27,1918-05-27
+Maataloustoimikunnan päällikkö,Kyösti Kallio,KESK,1918-05-27,1918-08-17
+Maatalousministeri,Uuno Brander,ED,1918-11-27,1919-04-17
+Maatalousministeri,Kyösti Kallio,KESK,1919-04-17,1919-08-15
+Maatalousministeri,Kyösti Kallio,KESK,1919-08-15,1920-03-15
+Maatalousministeri,Eero Pehkonen,KESK,1920-03-15,1921-04-09
+Maatalousministeri,Kyösti Kallio,KESK,1921-04-09,1922-06-02
+Maatalousministeri,Östen Elfving,NA,1922-06-02,1922-11-14
+Maatalousministeri,Juho Sunila,KESK,1922-11-14,1924-01-18
+Maatalousministeri,Östen Elfving,NA,1924-01-18,1924-05-31
+Maatalousministeri,Jalo Lahdensuo,KESK,1924-05-31,1924-11-22
+Maatalousministeri,Ilmari Auer,KESK,1924-11-22,1925-03-31
+Maatalousministeri,Juho Sunila,KESK,1925-03-31,1925-12-31
+Maatalousministeri,Juho Sunila,KESK,1925-12-31,1926-12-13
+Maatalousministeri,Mauno Pekkala,SDP,1926-12-13,1927-12-17
+Maatalousministeri,Sigurd Mattsson,KESK,1927-12-17,1928-12-22
+Maatalousministeri,Eemil Linna,ED,1928-12-22,1929-08-16
+Maatalousministeri,Kaarle Ellilä,KESK,1929-08-16,1930-07-04
+Maatalousministeri,August Raatikainen,KESK,1930-07-04,1931-03-21
+Maatalousministeri,Sigurd Mattsson,KESK,1931-03-21,1932-12-14
+Maatalousministeri,Kalle Jutila,KESK,1932-12-14,1936-09-25
+Maatalousministeri,Eemil Linna,ED,1936-09-25,1936-10-07
+Maatalousministeri,Pekka Heikkinen,KESK,1936-10-07,1937-03-12
+Maatalousministeri,Pekka Heikkinen,KESK,1937-03-12,1939-12-01
+Maatalousministeri,Pekka Heikkinen,KESK,1939-12-01,1940-03-27
+Maatalousministeri,Pekka Heikkinen,KESK,1940-03-27,1940-08-15
+Maatalousministeri,Viljami Kalliokoski,KESK,1940-08-15,1941-01-04
+Maatalousministeri,Viljami Kalliokoski,KESK,1941-01-04,1943-03-05
+Maatalousministeri,Viljami Kalliokoski,KESK,1943-03-05,1944-08-08
+Maatalousministeri,Viljami Kalliokoski,KESK,1944-08-08,1944-09-21
+Maatalousministeri,Viljami Kalliokoski,KESK,1944-09-21,1944-11-17
+Maatalousministeri,Eemil Luukka,KESK,1944-11-17,1945-04-17
+Maatalousministeri,Kalle Jutila,KESK,1945-04-17,1945-09-29
+Maatalousministeri,Vihtori Vesterinen,KESK,1945-11-09,1946-03-26
+Maatalousministeri,Vihtori Vesterinen,KESK,1946-03-26,1948-07-29
+Maatalousministeri,Matti Lepistö,SDP,1948-07-29,1950-03-17
+Maatalousministeri,Taavi Vilhula,KESK,1950-03-17,1951-01-17
+Maatalousministeri,Martti Miettunen,KESK,1951-01-17,1951-09-20
+Maatalousministeri,Martti Miettunen,KESK,1951-09-20,1953-07-09
+Maatalousministeri,Martti Miettunen,KESK,1953-07-09,1953-11-17
+Maatalousministeri,Kalle Jutila,NA,1953-11-17,1954-05-05
+Maatalousministeri,Viljami Kalliokoski,KESK,1954-05-05,1954-10-20
+Maatalousministeri,Viljami Kalliokoski,KESK,1954-10-20,1956-03-03
+Maatalousministeri,Martti Miettunen,KESK,1956-03-03,1957-05-27
+Maatalousministeri,Martti Miettunen,KESK,1957-05-27,1957-07-02
+Maatalousministeri,Kusti Eskola,KESK,1957-07-02,1957-11-29
+Maatalousministeri,Hans Perttula,NA,1957-11-29,1958-04-26
+Maatalousministeri,Pauli Lehtosalo,NA,1958-04-26,1958-08-29
+Maatalousministeri,Martti Miettunen,KESK,1958-08-29,1958-11-14
+Maatalousministeri,Urho Kähönen,KESK,1958-11-14,1959-01-13
+Maatalousministeri,Einari Jaakkola,KESK,1959-01-13,1961-07-14
+Maatalousministeri,Johannes Virolainen,KESK,1961-07-14,1962-04-12
+Maatalousministeri,Johannes Virolainen,KESK,1962-04-13,1963-12-18
+Maatalousministeri,Samuli Suomela,NA,1963-12-18,1964-09-12
+Maatalousministeri,Mauno Jussila,KESK,1964-09-12,1966-05-27
+Maatalousministeri,Nestori Kaasalainen,KESK,1966-05-27,1968-03-22
+Maatalousministeri,Martti Miettunen,KESK,1968-03-22,1970-05-14
+Maatalousministeri,Nils Westermarck,NA,1970-05-14,1970-07-15
+Maatalousministeri,Nestori Kaasalainen,KESK,1970-07-15,1971-02-28
+Maa- ja metsätalousministeri,Nestori Kaasalainen,KESK,1971-03-01,1971-10-28
+Maa- ja metsätalousministeri,Samuli Suomela,NA,1971-10-29,1972-02-23
+Maa- ja metsätalousministeri,Leo Happonen,SDP,1972-02-23,1972-09-04
+Maa- ja metsätalousministeri,Erkki Haukipuro,KESK,1972-09-04,1973-07-31
+Maa- ja metsätalousministeri,Heimo Linna,KESK,1973-08-01,1975-06-13
+Maa- ja metsätalousministeri,Veikko Ihamuotila,NA,1975-06-13,1975-11-30
+Maa- ja metsätalousministeri,Heimo Linna,KESK,1975-11-30,1976-09-29
+Maa- ja metsätalousministeri,Johannes Virolainen,KESK,1976-09-29,1977-05-15
+Maa- ja metsätalousministeri,Johannes Virolainen,KESK,1977-05-15,1979-05-26
+Maa- ja metsätalousministeri,Taisto Tähkämaa,KESK,1979-05-26,1982-02-19
+Maa- ja metsätalousministeri,Taisto Tähkämaa,KESK,1982-02-19,1983-05-06
+Maa- ja metsätalousministeri,Toivo Yläjärvi,KESK,1983-05-06,1987-04-30
+Maa- ja metsätalousministeri,Toivo T. Pohjala,KOK,1987-04-30,1991-04-26
+Maa- ja metsätalousministeri,Martti Pura,KESK,1991-04-26,1994-04-12
+Maa- ja metsätalousministeri,Mikko Pesälä,KESK,1994-04-12,1995-04-13
+Maa- ja metsätalousministeri,Kalevi Hemilä,NA,1995-04-13,1999-04-15
+Maa- ja metsätalousministeri,Kalevi Hemilä,NA,1999-04-15,2002-02-01
+Maa- ja metsätalousministeri,Raimo Tammilehto,NA,2002-02-01,2002-05-31
+Maa- ja metsätalousministeri,Jari Koskinen,KOK,2002-05-31,2003-04-17
+Maa- ja metsätalousministeri,Juha Korkeaoja,KESK,2003-04-17,2003-06-24
+Maa- ja metsätalousministeri,Juha Korkeaoja,KESK,2003-06-24,2007-04-19
+Maa- ja metsätalousministeri,Sirkka-Liisa Anttila,KESK,2007-04-19,2010-06-22
+Maa- ja metsätalousministeri,Sirkka-Liisa Anttila,KESK,2010-06-22,2011-06-22
+Maa- ja metsätalousministeri,Jari Koskinen,KOK,2011-06-22,2014-06-24
+Maa- ja metsätalousministeri,Petteri Orpo,KOK,2014-06-24,2015-05-29
+Maatalous- ja ympäristöministeri,Kimmo Tiilikainen,KESK,2015-05-29,2017-05-05
+Maa- ja metsätalousministeri,Jari Leppä,KESK,2017-05-05,2019-06-06
+Maa- ja metsätalousministeri,Jari Leppä,KESK,2019-06-06,2019-12-10
+Maa- ja metsätalousministeri,Jari Leppä,KESK,2019-12-10,2022-04-29
+Maa- ja metsätalousministeri,Antti Kurvinen,KESK,2022-04-29,2023-06-20
+Maa- ja metsätalousministeri,Sari Essayah,KD,2023-06-20,NA
+Liikenneministeri,Paavo Aitio,VAS,1970-03-01,1970-05-14
+Liikenneministeri,Martti Niskala,NA,1970-05-14,1970-07-15
+Liikenneministeri,Veikko Saarto,VAS,1970-07-15,1971-03-26
+Liikenneministeri,Kalervo Haapasalo,SDP,1971-03-26,1971-10-29
+Liikenneministeri,Esa Timonen,NA,1971-10-29,1972-02-23
+Liikenneministeri,Valde Nevalainen,SDP,1972-02-23,1972-09-04
+Liikenneministeri,Pekka Tarjanne,LKP,1972-09-04,1975-06-13
+Liikenneministeri,Esa Timonen,NA,1975-06-13,1975-11-30
+Liikenneministeri,Kauko Hjerppe,VAS,1975-11-30,1976-09-29
+Liikenneministeri,Ragnar Granvik,RKP,1976-09-29,1977-05-15
+Liikenneministeri,Veikko Saarto,VAS,1977-05-15,1979-05-26
+Liikenneministeri,Veikko Saarto,VAS,1979-05-26,1982-02-19
+Liikenneministeri,Jarmo Wahlström,VAS,1982-02-19,1982-12-31
+Liikenneministeri,Reino Breilin,SDP,1982-12-31,1983-05-06
+Liikenneministeri,Matti Puhakka,SDP,1983-05-06,1984-11-30
+Liikenneministeri,Matti Luttinen,SDP,1984-12-01,1987-04-30
+Liikenneministeri,Pekka Vennamo,PS,1987-04-30,1989-09-30
+Liikenneministeri,Raimo Vistbacka,PS,1989-10-01,1990-08-28
+Liikenneministeri,Ilkka Kanerva,KOK,1990-08-28,1991-04-26
+Liikenneministeri,Ole Norrback,RKP,1991-04-26,1995-04-13
+Liikenneministeri,Tuula Linnainmaa,KOK,1995-04-13,1997-04-01
+Liikenneministeri,Matti Aura,KOK,1997-04-02,1999-01-15
+Liikenneministeri,Kimmo Sasi,KOK,1999-01-15,1999-04-15
+Liikenneministeri,Olli-Pekka Heinonen,KOK,1999-04-15,2000-09-01
+Liikenne- ja viestintäministeri,Olli-Pekka Heinonen,KOK,2000-09-01,2002-01-04
+Liikenne- ja viestintäministeri,Kimmo Sasi,KOK,2002-01-04,2003-04-17
+Liikenne- ja viestintäministeri,Leena Luhtanen,SDP,2003-04-17,2003-06-24
+Liikenne- ja viestintäministeri,Leena Luhtanen,SDP,2003-06-24,2005-09-23
+Liikenne- ja viestintäministeri,Susanna Huovinen,SDP,2005-09-23,2007-04-19
+Liikenneministeri,Anu Vehviläinen,KESK,2007-04-19,2011-06-22
+Liikenneministeri,Merja Kyllönen,VAS,2011-06-22,2014-04-04
+Liikenne- ja kuntaministeri,Henna Virkkunen,KOK,2014-04-04,2014-06-24
+Liikenne- ja kuntaministeri,Paula Risikko,KOK,2014-06-24,2015-05-29
+Liikenne- ja viestintäministeri,Anne Berner,KESK,2015-05-29,2019-05-29
+Kunta- ja liikenneministeri,Anu Vehviläinen,KESK,2019-05-29,2019-06-06
+Liikenne- ja viestintäministeri,Sanna Marin,SDP,2019-06-06,2019-12-10
+Liikenne- ja viestintäministeri,Timo Harakka,SDP,2019-12-10,2023-06-20
+Liikenne- ja viestintäministeri,Lulu Ranne,PS,2023-06-20,NA
+Työvoimaministeri,Veikko Helle,SDP,1970-03-01,1970-05-14
+Työvoimaministeri,Esa Timonen,NA,1970-05-14,1970-07-15
+Työvoimaministeri,Veikko Helle,SDP,1970-07-15,1971-10-29
+Työvoimaministeri,Keijo Liinamaa,NA,1971-10-29,1972-02-23
+Työvoimaministeri,Veikko Helle,SDP,1972-02-23,1972-09-04
+Työvoimaministeri,Valde Nevalainen,SDP,1972-09-04,1975-06-13
+Työvoimaministeri,Ilmo Paananen,NA,1975-06-13,1975-11-30
+Työvoimaministeri,Paavo Aitio,VAS,1975-11-30,1976-09-29
+Työvoimaministeri,Paavo Väyrynen,KESK,1976-09-29,1977-05-15
+Työvoimaministeri,Arvo Aalto,VAS,1977-05-15,1979-05-26
+Työvoimaministeri,Arvo Aalto,VAS,1979-05-26,1981-03-20
+Työvoimaministeri,Jouko Kajanoja,VAS,1981-03-20,1982-12-31
+Työvoimaministeri,Veikko Helle,SDP,1982-12-31,1983-05-06
+Työvoimaministeri,Urpo Leppänen,PS,1983-05-06,1987-04-30
+Työministeri,Matti Puhakka,SDP,1989-06-01,1991-04-26
+Työministeri,Ilkka Kanerva,KOK,1991-04-26,1995-04-13
+Työministeri,Liisa Jaakonsaari,SDP,1995-04-13,1999-04-15
+Työministeri,Sinikka Mönkäre,SDP,1999-04-15,2000-02-25
+Työministeri,Tarja Filatov,SDP,2000-02-25,2003-04-17
+Työministeri,Tarja Filatov,SDP,2003-04-17,2003-06-24
+Työministeri,Tarja Filatov,SDP,2003-06-24,2007-04-19
+Työministeri,Tarja Cronberg,VIHR,2007-04-19,2009-06-26
+Työministeri,Anni Sinnemäki,VIHR,2009-06-26,2010-06-22
+Työministeri,Anni Sinnemäki,VIHR,2010-06-22,2011-06-22
+Työministeri,Lauri Ihalainen,SDP,2011-06-22,2014-06-24
+Työministeri,Lauri Ihalainen,SDP,2014-06-24,2015-05-29
+Oikeus- ja työministeri,Jari Lindström,PS,2015-05-29,2017-05-05
+Työministeri,Jari Lindström,PS,2017-05-05,2017-06-13
+Työministeri,Jari Lindström,SIN,2017-06-13,2019-06-06
+Työministeri,Timo Harakka,SDP,2019-06-06,2019-12-10
+Työministeri,Tuula Haatainen,SDP,2019-12-10,2023-06-20
+Työministeri,Arto Satonen,KOK,2023-06-20,NA
+Kauppa- ja teollisuustoimituskunnan päällikkö,Heikki Renvall,Nuors.,1917-11-27,1918-05-27
+Kauppa- ja teollisuustoimituskunnan päällikkö,Heikki Renvall,Nuors.,1918-05-27,1918-11-27
+Kauppa- ja teollisuusministeri,Julius Stjernvall,RKP,1918-11-27,1919-04-17
+Kauppa- ja teollisuusministeri,Juho Vennola,ED,1919-04-17,1919-08-15
+Kauppa- ja teollisuusministeri,Eero Erkko,ED,1919-08-15,1920-03-15
+Kauppa- ja teollisuusministeri,Leo Ehrnrooth,RKP,1920-03-15,1920-08-12
+Kauppa- ja teollisuusministeri,Hjalmar J. Procopé,RKP,1920-08-19,1921-04-09
+Kauppa- ja teollisuusministeri,Erkki Makkonen,ED,1921-04-09,1922-06-02
+Kauppa- ja teollisuusministeri,Aukusti Aho,NA,1922-06-02,1922-11-14
+Kauppa- ja teollisuusministeri,Aukusti Aho,NA,1922-11-30,1924-01-18
+Kauppa- ja teollisuusministeri,Hjalmar J. Procopé,NA,1924-01-19,1924-05-31
+Kauppa- ja teollisuusministeri,Axel Palmgren,RKP,1924-05-31,1925-03-31
+Kauppa- ja teollisuusministeri,Yrjö Pulkkinen,KOK,1925-03-31,1925-12-31
+Kauppa- ja teollisuusministeri,Tyko Reinikka,KESK,1925-12-31,1926-12-13
+Kauppa- ja teollisuusministeri,Väinö Hupli,SDP,1926-12-13,1927-12-17
+Kauppa- ja teollisuusministeri,P. V. Heikkinen,KESK,1927-12-17,1928-12-22
+Kauppa- ja teollisuusministeri,Kyösti Järvinen,NA,1928-12-22,1929-08-16
+Kauppa- ja teollisuusministeri,P. V. Heikkinen,KESK,1929-08-16,1930-07-04
+Kauppa- ja teollisuusministeri,Axel Solitander,NA,1930-07-04,1931-03-21
+Kauppa- ja teollisuusministeri,Axel Palmgren,RKP,1931-03-21,1932-12-14
+Kauppa- ja teollisuusministeri,Ilmari Killinen,ED,1932-12-30,1936-03-06
+Kauppa- ja teollisuusministeri,Atte Arola,KESK,1936-03-06,1936-10-07
+Kauppa- ja teollisuusministeri,Kalle Kauppi,ED,1936-10-07,1937-03-12
+Kauppa- ja teollisuusministeri,Väinö Voionmaa,SDP,1937-03-12,1938-12-01
+Kauppa- ja teollisuusministeri,Väinö Kotilainen,NA,1939-12-01,1940-08-15
+Kauppa- ja teollisuusministeri,Toivo Salmio,SDP,1940-08-23,1941-01-04
+Kauppa- ja teollisuusministeri,Toivo Salmio,SDP,1941-01-04,1941-07-03
+Kauppa- ja teollisuusministeri,Väinö Tanner,SDP,1941-07-03,1942-05-22
+Kauppa- ja teollisuusministeri,Uuno Takki,SDP,1942-05-22,1943-03-05
+Kauppa- ja teollisuusministeri,Uuno Takki,SDP,1943-03-05,1944-08-08
+Kauppa- ja teollisuusministeri,Åke Gartz,NA,1944-11-17,1945-04-17
+Kauppa- ja teollisuusministeri,Åke Gartz,NA,1945-04-17,1948-03-26
+Kauppa- ja teollisuusministeri,Uuno Takki,SDP,1946-03-26,1948-07-29
+Kauppa- ja teollisuusministeri,Uuno Takki,SDP,1948-07-29,1950-03-17
+Kauppa- ja teollisuusministeri,Sakari Tuomioja,ED,1950-03-17,1950-09-30
+Kauppa- ja teollisuusministeri,Teuvo Aura,ED,1950-09-30,1951-01-17
+Kauppa- ja teollisuusministeri,Penna Tervo,SDP,1951-01-17,1953-07-09
+Kauppa- ja teollisuusministeri,Teuvo Aura,NA,1953-07-09,1954-05-05
+Kauppa- ja teollisuusministeri,Penna Tervo,SDP,1954-05-05,1954-10-20
+Kauppa- ja teollisuusministeri,Aarre Simonen,SDP,1954-10-20,1956-03-03
+Kauppa- ja teollisuusministeri,Kauno Kleemola,KESK,1956-03-03,1957-05-27
+Kauppa- ja teollisuusministeri,Esa Kaitila,SK,1957-05-27,1957-11-29
+Kauppa- ja teollisuusministeri,Lauri Kivekäs,NA,1957-11-29,1958-08-29
+Kauppa- ja teollisuusministeri,Onni Hiltunen,SDP,1958-08-29,1959-01-13
+Kauppa- ja teollisuusministeri,Ahti Karjalainen,KESK,1959-01-13,1961-06-19
+Kauppa- ja teollisuusministeri,Björn Westerlund,RKP,1961-06-19,1961-07-14
+Kauppa- ja teollisuusministeri,Ilmari Hustich,NA,1961-07-14,1962-04-12
+Kauppa- ja teollisuusministeri,T. A. Wiherheimo,KOK,1962-04-13,1963-12-18
+Kauppa- ja teollisuusministeri,Olavi J. Mattila,NA,1963-12-18,1964-09-12
+Kauppa- ja teollisuusministeri,T. A. Wiherheimo,KOK,1964-09-12,1966-05-27
+Kauppa- ja teollisuusministeri,Olavi Salonen,SDP,1966-05-27,1968-03-22
+Kauppa- ja teollisuusministeri,Grels Teir,RKP,1968-03-22,1970-05-14
+Kauppa- ja teollisuusministeri,Olavi J. Mattila,NA,1970-05-14,1970-07-15
+Kauppa- ja teollisuusministeri,Arne Berner,LKP,1970-07-15,1971-10-29
+Kauppa- ja teollisuusministeri,Gunnar Korhonen,NA,1971-10-29,1972-02-23
+Kauppa- ja teollisuusministeri,Jussi Linnamo,SDP,1972-02-23,1972-09-04
+Kauppa- ja teollisuusministeri,Grels Teir,RKP,1972-09-04,1972-12-31
+Kauppa- ja teollisuusministeri,Jan-Magnus Jansson,RKP,1973-01-01,1974-09-30
+Kauppa- ja teollisuusministeri,Kristian Gestrin,RKP,1974-10-01,1975-06-13
+Kauppa- ja teollisuusministeri,Arvo Rytkönen,NA,1975-06-13,1975-11-30
+Kauppa- ja teollisuusministeri,Eero Rantala,SDP,1975-11-30,1976-09-29
+Kauppa- ja teollisuusministeri,Arne Berner,LKP,1976-09-29,1977-05-15
+Kauppa- ja teollisuusministeri,Eero Rantala,SDP,1977-05-15,1979-05-26
+Kauppa- ja teollisuusministeri,Ulf Sundqvist,SDP,1979-05-26,1981-06-30
+Kauppa- ja teollisuusministeri,Pirkko Työläjärvi,SDP,1981-07-01,1982-02-19
+Kauppa- ja teollisuusministeri,Esko Ollila,KESK,1982-02-19,1983-05-06
+Kauppa- ja teollisuusministeri,Seppo Lindblom,SDP,1983-05-06,1987-04-30
+Kauppa- ja teollisuusministeri,Ilkka Suominen,KOK,1987-04-30,1991-04-26
+Kauppa- ja teollisuusministeri,Kauko Juhantalo,KESK,1991-04-26,1992-08-03
+Kauppa- ja teollisuusministeri,Pekka Tuomisto,KESK,1992-08-03,1993-07-31
+Kauppa- ja teollisuusministeri,Seppo Kääriäinen,KESK,1993-08-01,1995-04-13
+Kauppa- ja teollisuusministeri,Antti Kalliomäki,SDP,1995-04-13,1999-04-15
+Kauppa- ja teollisuusministeri,Erkki Tuomioja,SDP,1999-04-15,2000-02-25
+Kauppa- ja teollisuusministeri,Sinikka Mönkäre,SDP,2000-02-25,2003-04-17
+Kauppa- ja teollisuusministeri,Mauri Pekkarinen,KESK,2003-04-17,2003-06-23
+Kauppa- ja teollisuusministeri,Mauri Pekkarinen,KESK,2003-06-23,2007-04-19
+Kauppa- ja teollisuusministeri,Mauri Pekkarinen,KESK,2007-04-19,2007-12-31
+Elinkeinoministeri,Mauri Pekkarinen,KESK,2008-01-01,2010-06-22
+Elinkeinoministeri,Mauri Pekkarinen,KESK,2010-06-22,2011-06-22
+Elinkeinoministeri,Jyri Häkämies,KOK,2011-06-22,2012-11-16
+Elinkeinoministeri,Jan Vapaavuori,KOK,2012-11-16,2014-06-24
+Elinkeinoministeri,Jan Vapaavuori,KOK,2014-06-24,2015-05-29
+Elinkeinoministeri,Olli Rehn,KESK,2015-05-29,2016-12-29
+Elinkeinoministeri,Mika Lintilä,KESK,2016-12-29,2019-06-06
+Elinkeinoministeri,Katri Kulmuni,KESK,2019-06-06,2019-12-10
+Elinkeinoministeri,Mika Lintilä,KESK,2019-12-10,2023-06-20
+Elinkeinoministeri,Vilhelm Junnila,PS,2023-06-20,2023-07-06
+Elinkeinoministeri,Wille Rydman,PS,2023-07-06,NA
+Sosiaalitoimituskunnan päällikkö,Oskari Wilho Louhivuori,SP,1917-11-27,1918-05-27
+Sosiaalitoimituskunnan päällikkö,Oskari Wilho Louhivuori,SP,1918-05-27,1918-06-29
+Sosiaaliministeri,Eero Erkko,ED,1918-11-27,1919-04-17
+Sosiaaliministeri,Santeri Alkio,KESK,1919-04-17,1919-08-15
+Sosiaaliministeri,Santeri Alkio,KESK,1919-08-15,1920-03-15
+Sosiaaliministeri,Vilkku Joukahainen,KESK,1920-03-15,1921-04-09
+Sosiaaliministeri,Vilkku Joukahainen,KESK,1921-04-09,1922-06-02
+Sosiaaliministeri,Eino Akseli Kuusi,NA,1922-06-02,1922-11-14
+Sosiaaliministeri,Oskari Mantere,ED,1922-11-14,1924-01-18
+Sosiaaliministeri,Einar Böök,NA,1924-01-18,1924-05-31
+Sosiaaliministeri,Niilo Liakka,KESK,1924-05-31,1924-11-22
+Sosiaaliministeri,Lauri Pohjala,KOK,1924-11-22,1925-03-31
+Sosiaaliministeri,Vilkku Joukahainen,KESK,1925-03-31,1925-12-31
+Sosiaaliministeri,Kalle Lohi,KESK,1925-12-31,1926-12-13
+Sosiaaliministeri,Johan Helo,SDP,1926-12-13,1927-11-15
+Sosiaaliministeri,Matti Paasivuori,SDP,1927-11-15,1927-12-17
+Sosiaaliministeri,Kalle Lohi,KESK,1927-12-17,1928-12-22
+Sosiaaliministeri,Niilo A. Mannio,ED,1928-12-22,1929-08-16
+Sosiaaliministeri,Herman Paavilainen,NA,1929-08-27,1930-07-04
+Sosiaaliministeri,E. A. Tuomivaara,KESK,1930-07-04,1931-03-21
+Sosiaaliministeri,E. Kilpeläinen,KOK,1931-03-21,1932-03-03
+Sosiaaliministeri,Erkki Paavolainen,KOK,1932-03-03,1932-10-20
+Sosiaaliministeri,Kalle Lohi,KESK,1932-10-20,1932-12-14
+Sosiaaliministeri,Eemil Hynninen,KESK,1932-12-14,1935-12-31
+Sosiaaliministeri,Bruno Sarlin,ED,1935-12-31,1936-10-07
+Sosiaaliministeri,Toivo Janhonen,KESK,1936-10-07,1937-03-12
+Sosiaaliministeri,Jaakko Keto,SDP,1937-03-12,1937-11-09
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1937-11-09,1939-12-01
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1939-12-01,1940-03-27
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1940-03-27,1941-01-04
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1941-01-04,1943-03-05
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1943-03-05,1943-12-17
+Sosiaaliministeri,Aleksi Aaltonen,SDP,1943-12-17,1944-08-08
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1944-08-08,1944-09-21
+Sosiaaliministeri,K.-A. Fagerholm,SDP,1944-09-21,1944-11-17
+Sosiaaliministeri,Ralf Törngren,RKP,1944-11-17,1945-04-17
+Sosiaaliministeri,Eino Kilpi,SDP,1945-04-17,1946-03-26
+Sosiaaliministeri,Matti Janhunen,VAS,1946-03-26,1948-07-29
+Sosiaaliministeri,Valdemar Liljeström,SDP,1948-07-29,1949-03-04
+Sosiaaliministeri,Tyyne Leivo-Larsson,SDP,1949-03-04,1949-03-18
+Sosiaaliministeri,Aleksi Aaltonen,SDP,1949-03-18,1950-03-17
+Sosiaaliministeri,Ralf Törngren,RKP,1950-03-17,1951-01-17
+Sosiaaliministeri,Vihtori Vesterinen,KESK,1951-01-17,1951-09-20
+Sosiaaliministeri,Ralf Törngren,RKP,1951-09-20,1952-11-26
+Sosiaaliministeri,Väinö Leskinen,SDP,1952-11-26,1953-07-09
+Sosiaaliministeri,Lauri Hietanen,NA,1953-07-09,1953-11-17
+Sosiaaliministeri,Esa Kaitila,SK,1953-11-17,1954-05-05
+Sosiaaliministeri,Tyyne Leivo-Larsson,SDP,1954-05-05,1954-10-20
+Sosiaaliministeri,Onni Peltonen,SDP,1954-10-20,1956-03-03
+Sosiaaliministeri,Eino Saari,SK,1956-03-03,1957-05-17
+Sosiaaliministeri,Tyyne Leivo-Larsson,SDP,1957-05-17,1957-05-27
+Sosiaaliministeri,Irma Karvikko,SK,1957-05-27,1957-09-02
+Sosiaaliministeri,Aino Malkamäki,SDP,1957-09-02,1957-11-29
+Sosiaaliministeri,Heikki Waris,NA,1957-11-29,1958-04-26
+Sosiaaliministeri,Valdemar Liljeström,NA,1958-04-26,1958-08-29
+Sosiaaliministeri,Väinö Leskinen,SDP,1958-08-29,1959-01-13
+Sosiaaliministeri,Vieno Simonen,KESK,1959-01-13,1961-07-14
+Sosiaaliministeri,Vieno Simonen,KESK,1961-07-14,1962-04-13
+Sosiaaliministeri,Olavi Saarinen,TPSL,1962-04-13,1963-10-18
+Sosiaaliministeri,Kyllikki Pohjala,KOK,1963-10-18,1963-12-18
+Sosiaaliministeri,Olof Ojala,NA,1963-12-18,1964-09-12
+Sosiaaliministeri,Juho Tenhiälä,KP,1964-09-12,1966-05-27
+Sosiaaliministeri,Matti Koivunen,VAS,1966-05-27,1968-03-22
+Sosiaaliministeri,Anna-Liisa Tiekso,VAS,1968-03-22,1970-05-14
+Sosiaali- ja terveysministeri,Gunnar Korhonen,NA,1970-05-14,1970-07-15
+Sosiaali- ja terveysministeri,Anna-Liisa Tiekso,VAS,1970-07-15,1971-03-26
+Sosiaali- ja terveysministeri,Pekka Kuusi,SDP,1971-03-26,1971-10-29
+Sosiaali- ja terveysministeri,Alli Lahtinen,NA,1971-10-29,1972-02-23
+Sosiaali- ja terveysministeri,Osmo Kaipainen,SDP,1972-02-23,1972-09-04
+Sosiaali- ja terveysministeri,Seija Karkinen,SDP,1972-09-04,1975-06-13
+Sosiaali- ja terveysministeri,Alli Lahtinen,NA,1975-06-13,1975-11-30
+Sosiaali- ja terveysministeri,Irma Toivanen,LKP,1975-11-30,1976-09-29
+Sosiaali- ja terveysministeri,Irma Toivanen,LKP,1976-09-29,1977-05-15
+Sosiaali- ja terveysministeri,Pirkko Työläjärvi,SDP,1977-05-15,1979-05-26
+Sosiaali- ja terveysministeri,Sinikka Luja-Penttilä,SDP,1979-05-26,1982-02-19
+Sosiaali- ja terveysministeri,Jacob Söderman,SDP,1982-02-19,1982-06-30
+Sosiaali- ja terveysministeri,Vappu Taipale,SDP,1982-07-01,1983-05-06
+Sosiaali- ja terveysministeri,Eeva Kuuskoski,KESK,1983-05-06,1987-04-30
+Sosiaali- ja terveysministeri,Helena Pesola,KOK,1987-04-30,1989-12-31
+Sosiaali- ja terveysministeri,Mauri Miettinen,KOK,1990-01-01,1991-04-26
+Sosiaali- ja terveysministeri,Eeva Kuuskoski,KESK,1991-04-26,1992-04-24
+Sosiaali- ja terveysministeri,Jorma Huuhtanen,KESK,1992-04-24,1995-04-13
+Sosiaali- ja terveysministeri,Sinikka Mönkäre,SDP,1995-04-13,1999-04-15
+Sosiaali- ja terveysministeri,Maija Perho,KOK,1999-04-15,2003-04-17
+Sosiaali- ja terveysministeri,Sinikka Mönkäre,SDP,2003-04-17,2003-06-24
+Sosiaali- ja terveysministeri,Sinikka Mönkäre,SDP,2003-06-24,2005-09-23
+Sosiaali- ja terveysministeri,Tuula Haatainen,SDP,2005-09-23,2007-04-19
+Sosiaali- ja terveysministeri,Liisa Hyssälä,KESK,2007-04-19,2010-05-24
+Sosiaali- ja terveysministeri,Juha Rehula,KESK,2010-05-24,2010-06-22
+Sosiaali- ja terveysministeri,Juha Rehula,KESK,2010-06-22,2011-06-22
+Sosiaali- ja terveysministeri,Paula Risikko,KOK,2011-06-22,2014-06-24
+Sosiaali- ja terveysministeri,Laura Räty,KOK,2014-06-24,2015-05-29
+Sosiaali- ja terveysministeri,Hanna Mäntylä,PS,2015-05-29,2016-08-25
+Sosiaali- ja terveysministeri,Pirkko Mattila,PS,2016-08-25,2017-06-13
+Sosiaali- ja terveysministeri,Pirkko Mattila,SIN,2017-06-13,2019-06-06
+Sosiaali- ja terveysministeri,Aino-Kaisa Pekonen,VAS,2019-06-06,2019-12-10
+Sosiaali- ja terveysministeri,Aino-Kaisa Pekonen,VAS,2019-12-10,2021-06-29
+Sosiaali- ja terveysministeri,Hanna Sarkkinen,VAS,2021-06-29,2023-06-20
+Sosiaali- ja terveysministeri,Kaisa Juuso,PS,2023-06-20,NA
+Apulaissosiaaliministeri,Miina Sillanpää,SDP,1926-12-13,1927-12-17
+Apulaissosiaaliministeri,Juhani Leppälä,KESK,1929-08-27,1930-07-04
+Apulaissosiaaliministeri,Oskari Reinikainen,SDP,1938-09-02,1939-07-01
+Ministeri sosiaaliministeriössä,Yrjö Leino,VAS,1944-11-17,1945-04-17
+Ministeri sosiaaliministeriössä,Matti Janhunen,VAS,1945-04-17,1946-03-26
+Ministeri sosiaaliministeriössä,Lennart Heljas,KESK,1946-03-26,1948-05-26
+Ministeri sosiaaliministeriössä,Onni Peltonen,SDP,1948-05-26,1948-07-29
+Ministeri sosiaaliministeriössä,Tyyne Leivo-Larsson,SDP,1948-07-29,1950-03-17
+Ministeri sosiaaliministeriössä,Emil Huunonen,SDP,1951-01-17,1951-09-20
+Ministeri sosiaaliministeriössä,Lauri Murtomaa,KESK,1951-09-20,1953-07-09
+Ministeri sosiaaliministeriössä,Vieno Simonen,KESK,1953-07-09,1953-11-17
+Ministeri sosiaaliministeriössä,Irma Karvikko,SK,1953-11-17,1954-05-05
+Ministeri sosiaaliministeriössä,Vieno Simonen,KESK,1954-05-05,1954-10-20
+Ministeri sosiaaliministeriössä,Tyyne Leivo-Larsson,SDP,1954-10-20,1956-03-03
+Ministeri sosiaaliministeriössä,Tyyne Leivo-Larsson,SDP,1956-03-23,1957-05-17
+Ministeri sosiaaliministeriössä,Tyyne Leivo-Larsson,NA,1958-05-02,1958-08-29
+Ministeri sosiaaliministeriössä,Rafael Paasio,SDP,1958-08-29,1959-01-13
+Ministeri sosiaaliministeriössä,Eeli Erkkilä,KESK,1959-01-13,1961-07-14
+Ministeri sosiaaliministeriössä,Mauno Jussila,KESK,1961-07-14,1962-04-13
+Ministeri sosiaaliministeriössä,Kyllikki Pohjala,KOK,1962-04-13,1963-10-18
+Ministeri sosiaaliministeriössä,Magnus Kull,NA,1963-12-18,1964-09-12
+Ministeri sosiaaliministeriössä,Kaarle Sorkio,NA,1964-09-12,1966-05-27
+Ministeri sosiaaliministeriössä,Esa Timonen,KESK,1966-05-27,1967-08-31
+Ministeri sosiaaliministeriössä,Toivo Saloranta,KESK,1967-09-08,1968-03-22
+Ministeri sosiaaliministeriössä,Eemil Partanen,KESK,1968-04-02,1970-05-14
+Ministeri sosiaali- ja terveysministeriössä,Alli Lahtinen,NA,1970-05-14,1970-07-15
+Ministeri sosiaali- ja terveysministeriössä,Katri-Helena Eskelinen,KESK,1970-07-15,1971-10-29
+Ministeri sosiaali- ja terveysministeriössä,Ahti Fredriksson,SDP,1972-02-23,1972-09-04
+Ministeri sosiaali- ja terveysministeriössä,Pentti Pekkarinen,KESK,1972-09-04,1975-01-20
+Ministeri sosiaali- ja terveysministeriössä,Reino Karpola,KESK,1975-02-07,1975-06-13
+Ministeri sosiaali- ja terveysministeriössä,Grels Teir,NA,1975-06-13,1975-11-30
+Ministeri sosiaali- ja terveysministeriössä,Pirkko Työläjärvi,SDP,1975-11-30,1976-09-29
+Ministeri sosiaali- ja terveysministeriössä,Orvokki Kangas,KESK,1976-09-29,1977-05-15
+Ministeri sosiaali- ja terveysministeriössä,Olavi Martikainen,KESK,1977-05-15,1979-05-26
+Ministeri sosiaali- ja terveysministeriössä,Katri-Helena Eskelinen,KESK,1979-05-26,1982-02-19
+Ministeri sosiaali- ja terveysministeriössä,Marjatta Väänänen,KESK,1982-02-19,1983-05-06
+Ministeri sosiaali- ja terveysministeriössä,Vappu Taipale,SDP,1983-05-06,1984-11-30
+Ministeri sosiaali- ja terveysministeriössä,Matti Puhakka,SDP,1984-12-01,1987-04-30
+Ministeri sosiaali- ja terveysministeriössä,Tarja Halonen,SDP,1987-04-30,1990-02-28
+Ministeri sosiaali- ja terveysministeriössä,Tuulikki Hämäläinen,SDP,1990-03-01,1991-04-26
+Ministeri sosiaali- ja terveysministeriössä,Terttu Huttu-Juntunen,VAS,1995-04-13,1999-04-15
+Peruspalveluministeri,Eva Biaudet,RKP,1999-04-15,2000-04-14
+Peruspalveluministeri,Osmo Soininvaara,VIHR,2000-04-14,2002-04-19
+Peruspalveluministeri,Eva Biaudet,RKP,2002-04-19,2003-04-17
+Peruspalveluministeri,Liisa Hyssälä,KESK,2003-04-17,2003-06-24
+Peruspalveluministeri,Liisa Hyssälä,KESK,2003-06-24,2007-04-19
+Peruspalveluministeri,Paula Risikko,KOK,2007-04-19,2010-06-22
+Peruspalveluministeri,Paula Risikko,KOK,2010-06-22,2011-06-22
+Peruspalveluministeri,Maria Guzenina-Richardson,SDP,2011-06-22,2013-05-24
+Peruspalveluministeri,Susanna Huovinen,SDP,2013-05-24,2014-06-24
+Peruspalveluministeri,Susanna Huovinen,SDP,2014-06-24,2015-05-29
+Perhe- ja peruspalveluministeri,Juha Rehula,KESK,2015-05-29,2017-07-10
+Perhe- ja peruspalveluministeri,Annika Saarikko,KESK,2017-07-10,2019-06-06
+Perhe- ja peruspalveluministeri,Krista Kiuru,SDP,2019-06-06,2019-12-10
+Perhe- ja peruspalveluministeri,Krista Kiuru,SDP,2019-12-10,2022-02-04
+Perhe- ja peruspalveluministeri,Aki Lindén,SDP,2022-02-04,2022-10-06
+Perhe- ja peruspalveluministeri,Krista Kiuru,SDP,2022-10-06,2023-06-20
+Sosiaaliturvaministeri,Sanni Grahn-Laasonen,KOK,2023-06-20,NA
+Ympäristöministeri,Matti Ahde,SDP,1983-10-01,1987-04-30
+Ympäristöministeri,Kaj Bärlund,SDP,1987-04-30,1991-04-26
+Ympäristöministeri,Sirpa Pietikäinen,KOK,1991-04-26,1995-04-13
+Ympäristöministeri,Pekka Haavisto,VIHR,1995-04-13,1999-04-14
+Ympäristöministeri,Satu Hassi,VIHR,1999-04-15,2002-05-31
+Ympäristöministeri,Jouni Backman,SDP,2002-05-31,2003-04-17
+Ympäristöministeri,Jan-Erik Enestam,RKP,2003-04-17,2003-06-24
+Ympäristöministeri,Jan-Erik Enestam,RKP,2003-06-24,2006-12-31
+Ympäristöministeri,Stefan Wallin,RKP,2007-01-01,2007-04-19
+Ympäristöministeri,Paula Lehtomäki,KESK,2007-04-19,2007-09-28
+Ympäristöministeri,Kimmo Tiilikainen,KESK,2007-09-28,2008-04-10
+Ympäristöministeri,Paula Lehtomäki,KESK,2008-04-11,2010-06-22
+Ympäristöministeri,Paula Lehtomäki,KESK,2010-06-22,2011-06-22
+Ympäristöministeri,Ville Niinistö,VIHR,2011-06-22,2014-06-24
+Ympäristöministeri,Ville Niinistö,VIHR,2014-06-24,2014-09-26
+Ympäristöministeri,Sanni Grahn-Laasonen,KOK,2014-09-26,2015-05-29
+Maatalous- ja ympäristöministeri,Kimmo Tiilikainen,KESK,2015-05-29,2019-06-06
+"Asunto-, energia- ja ympäristöministeri",Kimmo Tiilikainen,KESK,2017-05-05,2019-06-06
+Ympäristö- ja ilmastoministeri,Krista Mikkonen,VIHR,2019-06-06,2019-12-10
+Ympäristö- ja ilmastoministeri,Krista Mikkonen,VIHR,2019-12-10,2021-11-19
+Ympäristö- ja ilmastoministeri,Emma Kari,VIHR,2021-11-19,2022-06-07
+Ympäristö- ja ilmastoministeri,Maria Ohisalo,VIHR,2022-06-07,2023-06-20
+Ympäristö- ja ilmastoministeri,Kai Mykkänen,KOK,2023-06-20,NA
+Ministeri ympäristöministeriössä,Pirjo Rusanen,KOK,1991-04-26,1995-01-02
+Ministeri ympäristöministeriössä,Anneli Taina,KOK,1995-01-02,1995-04-13
+Asuntoministeri,Jan Vapaavuori,KOK,2007-04-19,2010-06-22
+Asuntoministeri,Jan Vapaavuori,KOK,2010-06-22,2011-06-22
+Asunto- ja viestintäministeri,Krista Kiuru,SDP,2011-06-22,2013-05-24
+Asunto- ja viestintäministeri,Pia Viitanen,SDP,2013-05-24,2014-04-04
+Apulaisulkoasiainministeri,Leo Ehrnrooth,RKP,1919-03-11,1919-04-17
+Apulaisulkoasiainministeri,Leo Ehrnrooth,RKP,1919-04-17,1919-06-19
+Ministeri ulkoasiainministeriössä,Henrik Ramsay,RKP,1941-11-14,1943-03-05
+Ministeri ulkoasiainministeriössä,Armas-Eino Martola,NA,1944-09-21,1944-11-17
+Ministeri ulkoasiainministeriössä,Reinhold Svento,SDP,1944-11-17,1945-04-17
+Ministeri ulkoasiainministeriössä,Reinhold Svento,SDP,1945-04-17,1946-03-26
+Ministeri ulkoasiainministeriössä,Reinhold Svento,VAS,1946-03-26,1948-04-30
+Ministeri ulkoasiainministeriössä,Ralf Törngren,RKP,1952-11-26,1953-07-09
+Ministeri ulkoasiainministeriössä,Reino Rossi,NA,1971-10-29,1972-02-23
+Ministeri ulkoasiainministeriössä,Jussi Linnamo,SDP,1972-09-24,1973-05-05
+Ministeri ulkoasiainministeriössä,Jermu Laine,SDP,1973-05-05,1975-06-13
+Ministeri ulkoasiainministeriössä,Arvo Rytkönen,NA,1975-06-23,1975-11-30
+Ministeri ulkoasiainministeriössä,Sakari T. Lehto,NA,1975-12-12,1976-09-29
+Ministeri ulkoasiainministeriössä,Carl Göran Aminoff,RKP,1976-09-29,1977-05-15
+Ministeri ulkoasiainministeriössä,Esko Rekola,NA,1979-05-26,1982-02-19
+Ministeri ulkoasiainministeriössä,Esko Rekola,NA,1982-02-19,1982-12-31
+Ministeri ulkoasiainministeriössä,Arne Berner,LKP,1982-12-31,1983-05-06
+Ministeri ulkoasiainministeriössä,Jermu Laine,SDP,1983-05-06,1987-04-30
+Ministeri ulkoasiainministeriössä,Pertti Salolainen,KOK,1987-04-30,1991-04-26
+Ministeri ulkoasiainministeriössä,Pertti Salolainen,KOK,1991-04-26,1995-04-13
+Ministeri ulkoasiainministeriössä,Ole Norrback,RKP,1995-04-13,1999-04-15
+Ulkomaankauppaministeri,Kimmo Sasi,KOK,1999-04-15,2002-01-04
+Ulkomaankauppaministeri,Jari Vilén,KOK,2002-01-04,2003-04-17
+Ulkomaankauppa- ja kehitysministeri,Paula Lehtomäki,KESK,2003-04-17,2003-06-24
+Ulkomaankauppa- ja kehitysministeri,Paula Lehtomäki,KESK,2003-06-24,2005-09-02
+Ulkomaankauppa- ja kehitysministeri,Mari Kiviniemi,KESK,2005-09-02,2006-03-03
+Ulkomaankauppa- ja kehitysministeri,Paula Lehtomäki,KESK,2006-03-03,2007-04-19
+Ulkomaankauppa- ja kehitysministeri,Paavo Väyrynen,KESK,2007-04-19,2010-06-22
+Ulkomaankauppa- ja kehitysministeri,Paavo Väyrynen,KESK,2010-06-22,2011-06-22
+Ulkomaankauppa- ja eurooppaministeri,Alexander Stubb,KOK,2011-06-22,2014-06-24
+Ulkomaankauppa- ja eurooppaministeri,Lenita Toivakka,KOK,2014-06-24,2015-05-29
+Ulkomaankauppa- ja kehitysministeri,Lenita Toivakka,KOK,2015-05-29,2016-06-22
+Ulkomaankauppa- ja kehitysministeri,Kai Mykkänen,KOK,2016-06-22,2018-02-12
+Ulkomaankauppa- ja kehitysministeri,Anne-Mari Virolainen,KOK,2018-02-12,2019-06-06
+Kehitysyhteistyö- ja ulkomaankauppaministeri,Ville Skinnari,SDP,2019-06-06,2019-12-10
+Kehitysyhteistyö- ja ulkomaankauppaministeri,Ville Skinnari,SDP,2019-12-10,2023-06-20
+Ulkomaankauppa- ja kehitysministeri,Ville Tavio,PS,2023-06-20,NA
+Pohjoismaisen yhteistyön ja tasa-arvon ministeri,Thomas Blomqvist,RKP,2019-06-06,2019-12-10
+Pohjoismaisen yhteistyön ja tasa-arvon ministeri,Thomas Blomqvist,RKP,2019-12-10,2023-06-20
+Sisäasiaintoimituskunnan apulaispäällikkö,Alexander Frey,RKP,1917-11-27,1918-05-27
+Sisäasiaintoimituskunnan apulaispäällikkö,Alexander Frey,RKP,1918-05-27,1918-06-29
+Apulaissisäasiainministeri,Niilo Solja,KOK,1931-03-21,1932-03-03
+Apulaissisäasiainministeri,Lennart Oesch,NA,1932-03-03,1932-03-14
+Apulaissisäasiainministeri,Arvo Manner,NA,1932-03-14,1932-10-20
+Apulaissisäasiainministeri,Eljas Erkko,ED,1932-11-25,1932-12-14
+Apulaissisäasiainministeri,Urho Kekkonen,KESK,1936-10-09,1937-03-12
+Ministeri sisäasiainministeriössä,Eemil Luukka,KESK,1944-08-08,1944-09-21
+Ministeri sisäasiainministeriössä,Eemil Luukka,KESK,1944-09-21,1944-11-17
+Ministeri sisäasiainministeriössä,Eemil Luukka,KESK,1944-11-24,1945-04-17
+Ministeri sisäasiainministeriössä,Eemil Luukka,KESK,1945-04-17,1946-03-26
+Ministeri sisäasiainministeriössä,Johannes Virolainen,KESK,1950-09-30,1951-01-17
+Ministeri sisäasiainministeriössä,Aarno Strömmer,NA,1975-06-13,1975-11-30
+Ministeri sisäasiainministeriössä,Olavi Hänninen,VAS,1975-11-30,1976-06-29
+Ministeri sisäasiainministeriössä,Arvo Hautala,VAS,1976-06-29,1976-09-29
+Ministeri sisäasiainministeriössä,Mikko Jokela,KESK,1982-02-19,1983-05-06
+Ministeri sisäasiainministeriössä,Jouni Backman,SDP,1995-04-13,1999-04-15
+Alue- ja kuntaministeri,Martti Korhonen,VAS,1999-04-15,2003-04-17
+Alue- ja kuntaministeri,Hannes Manninen,KESK,2003-04-17,2003-06-24
+Alue- ja kuntaministeri,Hannes Manninen,KESK,2003-06-24,2007-04-19
+Maahanmuutto- ja eurooppaministeri,Astrid Thors,RKP,2007-04-19,2010-06-22
+Maahanmuutto- ja eurooppaministeri,Astrid Thors,RKP,2010-06-22,2011-06-22
+Apulaispuolustusministeri,Albin Manner,KESK,1930-07-04,1930-07-10
+Apulaispuolustusministeri,Hugo Österman,NA,1930-07-10,1931-03-21
+Apulaisvaltiovarainministeri,Juho Vennola,ED,1918-11-27,1919-04-17
+Apulaisvaltiovarainministeri,Elis Furuhjelm,RKP,1932-12-14,1933-04-21
+Apulaisvaltiovarainministeri,Rolf Witting,RKP,1933-04-21,1936-02-28
+Apulaisvaltiovarainministeri,Tyko Reinikka,KESK,1936-03-06,1936-10-07
+Ministeri valtiovarainministeriössä,Juho Pilppula,KESK,1940-07-31,1941-01-04
+Ministeri valtiovarainministeriössä,Juho Koivisto,KESK,1941-01-04,1943-03-05
+Ministeri valtiovarainministeriössä,Martti Paloheimo,KOK,1944-08-08,1944-09-21
+Ministeri valtiovarainministeriössä,Sakari Tuomioja,ED,1944-11-17,1945-04-17
+Ministeri valtiovarainministeriössä,Onni Hiltunen,SDP,1945-04-17,1946-03-26
+Ministeri valtiovarainministeriössä,Onni Hiltunen,SDP,1946-03-26,1948-07-29
+Ministeri valtiovarainministeriössä,Aleksi Aaltonen,SDP,1948-07-30,1949-03-18
+Ministeri valtiovarainministeriössä,Unto Varjonen,SDP,1949-08-19,1950-03-17
+Ministeri valtiovarainministeriössä,Nils Meinander,RKP,1950-03-17,1951-01-17
+Ministeri valtiovarainministeriössä,Matti Miikki,KESK,1951-09-20,1953-07-09
+Ministeri valtiovarainministeriössä,Nils Meinander,RKP,1953-07-09,1953-11-17
+Ministeri valtiovarainministeriössä,Esa Kaitila,KP,1953-11-17,1954-05-05
+Ministeri valtiovarainministeriössä,Martti Miettunen,KESK,1954-05-07,1954-10-20
+Ministeri valtiovarainministeriössä,Veikko Vennamo,KESK,1954-10-20,1956-03-03
+Ministeri valtiovarainministeriössä,Mauno Jussila,KESK,1956-03-03,1957-05-27
+Ministeri valtiovarainministeriössä,Vihtori Sarjala,KESK,1957-05-27,1957-07-02
+Ministeri valtiovarainministeriössä,Ahti Karjalainen,KESK,1957-07-02,1957-09-02
+Ministeri valtiovarainministeriössä,Pekka Malinen,KP,1957-09-02,1957-11-29
+Ministeri valtiovarainministeriössä,Ahti Karjalainen,NA,1957-11-29,1958-03-31
+Ministeri valtiovarainministeriössä,Mauno Jussila,KESK,1958-08-29,1959-01-13
+Ministeri valtiovarainministeriössä,Pauli Lehtosalo,KESK,1959-01-13,1961-04-14
+Ministeri valtiovarainministeriössä,Juho Niemi,KESK,1961-04-14,1961-07-14
+Ministeri valtiovarainministeriössä,Juho Niemi,KESK,1961-07-14,1962-04-13
+Ministeri valtiovarainministeriössä,Osmo Karttunen,KESK,1962-04-13,1963-12-13
+Ministeri valtiovarainministeriössä,Heikki Tuominen,NA,1963-12-18,1964-09-12
+Ministeri valtiovarainministeriössä,Erkki Huurtamo,KOK,1964-09-12,1966-05-27
+Ministeri valtiovarainministeriössä,Ele Alenius,VAS,1966-05-27,1968-03-22
+Ministeri valtiovarainministeriössä,Ele Alenius,VAS,1968-03-22,1970-05-14
+Ministeri valtiovarainministeriössä,Keijo Liinamaa,NA,1970-05-26,1970-07-15
+Ministeri valtiovarainministeriössä,Valto Käkelä,SDP,1970-07-15,1971-10-29
+Ministeri valtiovarainministeriössä,Jorma Uitto,NA,1971-10-29,1972-02-23
+Ministeri valtiovarainministeriössä,Margit Eskman,SDP,1972-02-23,1972-05-31
+Ministeri valtiovarainministeriössä,Seija Karkinen,SDP,1972-05-31,1972-09-04
+Ministeri valtiovarainministeriössä,Esko Niskanen,SDP,1972-09-04,1975-06-13
+Ministeri valtiovarainministeriössä,Teuvo Varjas,NA,1975-06-13,1975-11-30
+Ministeri valtiovarainministeriössä,Viljo Luukka,NA,1975-11-30,1976-04-09
+Ministeri valtiovarainministeriössä,Esko Rekola,NA,1976-04-09,1976-09-29
+Ministeri valtiovarainministeriössä,Esko Rekola,NA,1976-09-29,1977-05-15
+Ministeri valtiovarainministeriössä,Esko Rekola,NA,1977-05-15,1979-05-26
+Ministeri valtiovarainministeriössä,Pirkko Työläjärvi,SDP,1979-05-26,1981-06-30
+Ministeri valtiovarainministeriössä,Mauno Forsman,SDP,1981-07-01,1982-02-19
+Ministeri valtiovarainministeriössä,Mauno Forsman,SDP,1982-02-19,1982-09-15
+Ministeri valtiovarainministeriössä,Jermu Laine,SDP,1982-09-15,1983-05-06
+Ministeri valtiovarainministeriössä,Pekka Vennamo,PS,1983-05-06,1987-04-30
+Ministeri valtiovarainministeriössä,Ulla Puolanne,KOK,1987-04-30,1991-04-26
+Ministeri valtiovarainministeriössä,Arja Alho,SDP,1995-04-13,1997-10-09
+Ministeri valtiovarainministeriössä,Jouko Skinnari,SDP,1997-10-09,1999-04-15
+Ministeri valtiovarainministeriössä,Suvi-Anne Siimes,VAS,1999-04-15,2003-04-17
+Toinen valtiovarainministeri,Ulla-Maj Wideroos,RKP,2003-04-17,2003-06-24
+Toinen valtiovarainministeri,Ulla-Maj Wideroos,RKP,2003-06-24,2007-04-19
+Hallinto- ja kuntaministeri,Mari Kiviniemi,KESK,2007-04-19,2010-06-22
+Hallinto- ja kuntaministeri,Tapani Tölli,KESK,2010-06-22,2011-06-22
+Hallinto- ja kuntaministeri,Henna Virkkunen,KOK,2011-06-22,2014-04-04
+Liikenne- ja kuntaministeri,Henna Virkkunen,KOK,2014-04-04,2014-06-24
+Liikenne- ja kuntaministeri,Paula Risikko,KOK,2014-06-24,2015-05-29
+Kunta- ja uudistusministeri,Anu Vehviläinen,KESK,2015-05-29,2019-05-29
+Kunta- ja liikenneministeri,Anu Vehviläinen,KESK,2019-05-29,2019-06-06
+Kunta- ja omistajaohjausministeri,Sirpa Paatero,SDP,2019-06-06,2019-12-10
+Kuntaministeri,Sirpa Paatero,SDP,2019-12-10,2023-06-20
+Kunta- ja alueministeri,Anna-Kaisa Ikonen,KOK,2023-06-20,-
+Apulaisopetusministeri,Antti Kukkonen,KESK,1924-05-31,1924-11-22
+Apulaisopetusministeri,Oskari Mantere,ED,1924-01-22,1925-03-31
+Ministeri opetusministeriössä,Meeri Kalavainen,SDP,1970-07-15,1971-10-29
+Ministeri opetusministeriössä,Jouko Tyyri,NA,1971-10-29,1972-02-23
+Ministeri opetusministeriössä,Pentti Holappa,SDP,1972-02-23,1972-09-04
+Ministeri opetusministeriössä,Marjatta Väänänen,KESK,1972-09-04,1975-06-13
+Ministeri opetusministeriössä,Kalevi Kivistö,VAS,1975-11-30,1976-09-29
+Ministeri opetusministeriössä,Kalevi Kivistö,VAS,1977-05-15,1979-05-26
+Ministeri opetusministeriössä,Kalevi Kivistö,VAS,1979-05-26,1982-02-19
+Ministeri opetusministeriössä,Kaarina Suonio,SDP,1982-02-19,1982-12-31
+Ministeri opetusministeriössä,Arvo Salo,SDP,1982-12-31,1983-05-06
+Ministeri opetusministeriössä,Gustav Björkstrand,RKP,1983-05-06,1987-04-30
+Ministeri opetusministeriössä,Anna-Liisa Kasurinen,SDP,1987-04-30,1991-04-26
+Ministeri opetusministeriössä,Tytti Isohookana-Asunmaa,KESK,1991-04-26,1995-04-13
+Ministeri opetusministeriössä,Claes Andersson,VAS,1995-04-13,1998-09-04
+Ministeri opetusministeriössä,Suvi-Anne Siimes,VAS,1998-09-04,1999-04-15
+Kulttuuriministeri,Suvi Lindén,KOK,1999-04-15,2002-06-05
+Kulttuuriministeri,Kaarina Dromberg,KOK,2002-06-05,2003-04-17
+Kulttuuriministeri,Tanja Saarela,KESK,2003-04-17,2003-06-24
+Kulttuuriministeri,Tanja Saarela,KESK,2003-06-24,2007-04-19
+Kulttuuri- ja urheiluministeri,Stefan Wallin,RKP,2007-04-19,2010-05-01
+Kulttuuri- ja urheiluministeri,Stefan Wallin,RKP,2010-05-01,2010-06-22
+Kulttuuri- ja urheiluministeri,Stefan Wallin,RKP,2010-06-22,2011-06-22
+Kulttuuri- ja urheiluministeri,Paavo Arhinmäki,VAS,2011-06-22,2014-04-04
+Kulttuuri- ja asuntoministeri,Pia Viitanen,SDP,2014-04-04,2014-06-24
+Kulttuuri- ja asuntoministeri,Pia Viitanen,SDP,2014-06-24,2015-05-29
+"Eurooppa-, kulttuuri- ja urheiluministeri",Sampo Terho,PS,2017-05-05,2017-06-13
+"Eurooppa-, kulttuuri- ja urheiluministeri",Sampo Terho,SIN,2017-06-13,2019-06-06
+Tiede- ja kulttuuriministeri,Annika Saarikko,KESK,2019-06-06,2019-08-09
+Tiede- ja kulttuuriministeri,Hanna Kosonen,KESK,2019-08-09,2019-12-10
+Tiede- ja kulttuuriministeri,Hanna Kosonen,KESK,2019-12-10,2020-08-06
+Tiede- ja kulttuuriministeri,Annika Saarikko,KESK,2020-08-06,2021-05-27
+Tiede- ja kulttuuriministeri,Antti Kurvinen,KESK,2021-05-27,2022-04-29
+Tiede- ja kulttuuriministeri,Petri Honkonen,KESK,2022-04-29,2023-06-20
+Tiede- ja kulttuuriministeri,Sari Multala,KOK,2023-06-20,-
+"Liikunta-, urheilu- ja nuorisoministeri",Sandra Bergqvist,RKP,2023-06-20,-
+Maataloustoimikunnan apulaispäällikkö,Eero Pehkonen,KESK,1917-11-27,1918-05-27
+Maataloustoimikunnan apulaispäällikkö,Eero Pehkonen,KESK,1918-05-27,1918-08-17
+Apulaismaatalousministeri,Eero Hahl,KESK,1919-04-17,1919-08-15
+Apulaismaatalousministeri,Eero Hahl,KESK,1919-08-15,1920-03-15
+Apulaismaatalousministeri,Eero Hahl,KESK,1920-03-15,1921-04-09
+Apulaismaatalousministeri,Juho Niukkanen,KESK,1921-04-09,1922-06-02
+Apulaismaatalousministeri,A. K. Cajander,NA,1922-06-02,1922-11-14
+Apulaismaatalousministeri,Juho Niukkanen,KESK,1922-11-14,1924-01-18
+Apulaismaatalousministeri,Ilmari Auer,KESK,1924-05-31,1924-11-22
+Apulaismaatalousministeri,Pekka Pennanen,KOK,1924-11-29,1925-03-31
+Apulaismaatalousministeri,Vihtori Vesterinen,KESK,1925-03-31,1925-12-31
+Apulaismaatalousministeri,Vihtori Vesterinen,KESK,1925-12-31,1926-12-13
+Apulaismaatalousministeri,Vihtori Vesterinen,KESK,1927-12-17,1928-10-16
+Apulaismaatalousministeri,Kalle Jutila,KESK,1928-10-16,1928-12-22
+Apulaismaatalousministeri,Uuno Brander,ED.,1928-12-22,1929-08-16
+Apulaismaatalousministeri,Antti Junes,KESK,1929-08-16,1930-07-04
+Apulaismaatalousministeri,Juho Koivisto,KESK,1930-07-04,1931-03-21
+Apulaismaatalousministeri,Pekka Heikkinen,KESK,1931-03-21,1932-12-14
+Apulaismaatalousministeri,Eemil Linna,ED.,1934-01-19,1936-09-25
+Apulaismaatalousministeri,Viljami Kalliokoski,KESK,1936-10-07,1937-03-12
+Apulaismaatalousministeri,Juho Koivisto,KESK,1937-03-12,1939-12-01
+Ministeri maatalousministeriössä,Juho Koivisto,KESK,1939-12-01,1940-03-27
+Ministeri maatalousministeriössä,Juho Koivisto,KESK,1940-03-27,1941-01-04
+Ministeri maatalousministeriössä,Toivo Ikonen,KESK,1941-01-04,1943-03-05
+Ministeri maatalousministeriössä,Nils Osara,NA,1943-03-05,1944-08-08
+Ministeri maatalousministeriössä,Eemil Luukka,KESK,1945-04-17,1946-03-26
+Ministeri maatalousministeriössä,Paavo Viding,KESK,1946-03-26,1948-07-29
+Ministeri maatalousministeriössä,Jussi Raatikainen,SDP,1948-07-29,1950-03-17
+Ministeri maatalousministeriössä,Eemil Luukka,KESK,1950-03-17,1951-01-17
+Ministeri maatalousministeriössä,Matti Lepistö,SDP,1951-01-17,1951-09-20
+Ministeri maatalousministeriössä,Eemil Luukka,KESK,1951-09-20,1953-07-09
+Ministeri maatalousministeriössä,Matti Lepistö,SDP,1951-09-20,1952-11-29
+Ministeri maatalousministeriössä,Hannes Tiainen,SDP,1952-12-03,1953-07-09
+Ministeri maatalousministeriössä,Henrik Kullberg,RKP,1953-11-17,1953-12-04
+Ministeri maatalousministeriössä,Nils Westermarck,RKP,1953-12-18,1954-05-05
+Ministeri maatalousministeriössä,Hannes Tiainen,SDP,1954-05-05,1954-10-20
+Ministeri maatalousministeriössä,Vieno Simonen,KESK,1956-03-03,1957-05-27
+Ministeri maatalousministeriössä,Bertel Lindh,RKP,1957-05-27,1957-07-02
+Ministeri maatalousministeriössä,Matti Lepistö,SDP,1957-09-02,1957-11-29
+Ministeri maatalousministeriössä,Matti Lepistö,SDP,1958-04-26,1958-08-29
+Ministeri maatalousministeriössä,Niilo Kosola,KOK,1958-08-29,1959-01-13
+Ministeri maatalousministeriössä,Toivo Antila,KESK,1959-01-13,1961-07-14
+Ministeri maatalousministeriössä,Tahvo Rönkkö,KESK,1961-07-14,1962-04-13
+Ministeri maatalousministeriössä,Verner Korsbäck,RKP,1962-04-13,1963-12-18
+Ministeri maatalousministeriössä,Marja Lahti,KESK,1964-09-12,1966-05-27
+Ministeri maatalousministeriössä,Lars Lindeman,SDP,1966-05-27,1968-03-22
+Viestintäministeri,Suvi Lindén,KOK,2007-04-19,2010-06-22
+Viestintäministeri,Suvi Lindén,KOK,2010-06-22,2011-06-22
